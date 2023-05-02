@@ -1,0 +1,12 @@
+relations:
+  - (officialStateSecurityForces, NigerianSecurityForces)
+  - (ethnicGroup, igbo)
+  - (ethnicGroup, hausa)
+  - (ethnicGroup, fulani)
+  - (ethnicGroup, yoruba)
+  - (ethnicGroup, ijaw)
+  - (ethnicGroup, tiv)
+  - (ethnicGroup, kanuri)
+  - (ethnicGroup, ibibio)
+  - (ethnicGroup, nupe)
+  - (ethnicGroup, gwari)

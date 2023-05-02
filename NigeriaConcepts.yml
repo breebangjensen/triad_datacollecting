@@ -1,0 +1,24 @@
+concepts:
+  NigerianSecurityForces:
+    stringTokens: ["Nigerian military", "Nigerian police", "Nigerian security forces"]
+  igboEthnicGroup:
+    stringTokens: ["Igbo", "Igbo people"]
+  hausaEthnicGroup:
+    stringTokens: ["Hausa", "Hausa people"]
+  fulaniEthnicGroup:
+    stringTokens: ["Fulani", "Fulani people"]
+  yorubaEthnicGroup:
+    stringTokens: ["Yoruba", "Yoruba people"]
+  ijawEthnicGroup:
+    stringTokens: ["Ijaw", "Ijaw people"]
+  tivEthnicGroup:
+    stringTokens: ["Tiv", "Tiv people"]
+  kanuriEthnicGroup:
+    stringTokens: ["Kanuri", "Kanuri people"]
+  ibibioEthnicGroup:
+    stringTokens: ["Ibibio", "Ibibio people"]
+  nupeEthnicGroup:
+    stringTokens: ["Nupe", "Nupe people"]
+  gwariEthnicGroup:
+    stringTokens: ["Gwari", "Gwari people"]
+  
