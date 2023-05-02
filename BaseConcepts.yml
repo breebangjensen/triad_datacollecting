@@ -4,12 +4,12 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   people:
     stringTokens: ["people", "peoples", "human", "humans", "everyone", "population"]
   genderGroup:
-    stringTokens: []  
-  maleGender: 
-    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender"] 
-  femaleGender: 
+    stringTokens: []
+  maleGender 
+    stringTokens: ["men", "man", "male", "males", "boy", "boys", "male gender" 
+  femaleGender:
     stringTokens: ["women", "woman", "female", "females", "girl", "girls", "female gender"]
-  nonBinaryGender: 
+  nonBinaryGender:
     stringTokens: ["non-binary", "nonbinary", "non-binary gender"]
   organizedGroup:
     stringTokens: ["organization", "group"]
@@ -25,7 +25,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["subnational bureacracy", "provincial bureacracy", "subnational officials", "provincial officials", "local officials"]
   governmentLaborOrganization:
     stringTokens: []
-  officialStateSecurityForces:  
+  officialStateSecurityForces:
     stringTokens: ["army", "security forces", "police", "air force", "navy", "miilitary"]
   armedNonGovernmentalOrganizedGroup:
     stringTokens: ["armed group", "militia", "violent organization"]
@@ -95,5 +95,3 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["barack obama", "obama", "president obama", "former president obama"]
   vladimirPutin:
     stringTokens: ["vladimir putin", "putin"]
-
-

@@ -21,12 +21,12 @@ When new perpetrators, victims, or sources of information are detected in the so
 
 Once perpetrator, victim, or sources of information *tokens* in the text have been identified and their appropriate concept in the knowledge graph has been identified (eg "hausa people" is identified by PULSAR as victims,  `hausaEthnicGroup` is the concept because this `concept` has the attribute `stringTokens` equal to a list that includes "Hausa people"). 
 
-If we want to analyze the violations of the rights in a given country (or accross countries) to the Hausa people across different mentions in the text, we can now use all of victims that link to that concept even if they were referred to by different *tokens*. Further, because `hausaEthnicGroup` has a relation that defines `ethnicGroup` as its parent, we can look at the differences in violations across different children of `ethnicGroup`, again within or across countries.
+If we want to analyze the violations of the rights in a given country (or across countries) to the Hausa people across different mentions in the text, we can now use all of victims that link to that concept even if they were referred to by different *tokens*. Further, because `hausaEthnicGroup` has a relation that defines `ethnicGroup` as its parent, we can look at the differences in violations across different children of `ethnicGroup`, again within or across countries.
 
 
 # Format
 
-After some experimentation and testing, we will utilize a set of structured yaml files to enter and store our knowledge graph *tokens*, *concepts*, *attributes*, and *relations*. The files will be organized such that we first have two files that represent the *concepts* and *relations* that could apply to most/all countries around the world. We denote these `BaseConcepts.yaml` and `BaseRelations.yaml`. They are formatted shuch that:
+After some experimentation and testing, we will utilize a set of structured yaml files to enter and store our knowledge graph *tokens*, *concepts*, *attributes*, and *relations*. The files will be organized such that we first have two files that represent the *concepts* and *relations* that could apply to most/all countries around the world. We denote these `BaseConcepts.yaml` and `BaseRelations.yaml`. They are formatted such that:
 
 - There is one `BaseConcepts.yaml` file that includes *concepts* with `stringTokens` attributes that record the associated a*tokens*. The format of the file should be a map (key -- value pair), with the outer key being `concepts` and the inner value holding another set of maps, with each individual inner map item (themselves a key -- value pair). Like so:
     ```
@@ -57,7 +57,7 @@ If, however, the actor mentioned is exactly same (eg `russiaMilitary` is referre
 
 Note that if for some reason `russiaMilitary` is not yet a concept in the `RussiaConcepts.yaml` file, then this should be added there (where the groups is most active, present, or located). Then that group can be referred to when connecting the PULSAR mentions/tokens. Concepts should be in the file where they are most important. `BaseConcepts.yaml` should be reserved for non-state and international organizations that do not have an obvious location, where ever possible. Religions that are spread across multiple regions should be in `Base*` also. If a concept is moved from one country file or another or to base, then this should be registered in the `trackingMovementOfConceptsAcrossFiles.yaml` file, see below.
 
-Relations can and must link concepts between `BaseConcepts.yaml` concepts and country-specifc concepts, so that there are no isolates in the knowledge graph (eg all `concepts` must be reachable from `ROOT`)
+Relations can and must link concepts between `BaseConcepts.yaml` concepts and country-specific concepts, so that there are no isolates in the knowledge graph (eg all `concepts` must be reachable from `ROOT`)
 
 
 ## Tracking movements of concepts to different files

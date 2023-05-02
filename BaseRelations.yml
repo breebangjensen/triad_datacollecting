@@ -1,9 +1,9 @@
-relations: # parent concept, child concept, tuples
+relations:  # parent concept, child concept, tuples
     - (ROOT, people)
     - (people, genderGroup)
     - (genderGroup, maleGender)
-    - (genderGroup, femaleGender) 
-    - (genderGroup, nonBinaryGender) 
+    - (genderGroup, femaleGender)
+    - (genderGroup, nonBinaryGender)
     - (people, organizedGroup)
     - (organizedGroup, nonGovernmentalOrganizedGroup)
     - (organizedGroup, governmentGroup)
@@ -17,15 +17,15 @@ relations: # parent concept, child concept, tuples
     - (organizedGroup, proGovernmentMilitia)
     - (organizedGroup, informationCollectionOrganization)
     - (informationCollectionOrganization, spies)
-    - (nonGovernmentalOrganizedGroup, laborGroup) # use this only for nongov labor groups
+    - (nonGovernmentalOrganizedGroup, laborGroup)  # use this only for nongov labor groups
     - (laborGroup, laborUnion)
-    - (people, ethnicGroup) # ethnic group does not have to be organized
+    - (people, ethnicGroup)  # ethnic group does not have to be organized
     - (ethnicGroup, hispanicEthnicGroup)
-    - (people, employmentGroup) # employment group does not have to be organized
+    - (people, employmentGroup)  # employment group does not have to be organized
     - (employmentGroup, farmers)
-    - (employmentGroup, bankersFinancial) 
+    - (employmentGroup, bankersFinancial)
     - (employmentGroup, unemployed)
-    - (organizedGroup, religionGroup) # assuming organized religion, government could be controlled by a religious group, so connect to organized group and not nonGovernmentalOrg
+    - (organizedGroup, religionGroup)  # assuming organized religion, government could be controlled by a religious group, so connect to organized group and not nonGovernmentalOrg
     - (religionGroup, orthodoxReligion)
     - (orthodoxReligion, greekOrthodox)
     - (orthodoxReligion, russianOrthodox)
