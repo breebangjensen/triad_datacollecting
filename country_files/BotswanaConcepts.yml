@@ -104,7 +104,7 @@ concepts:
      livesIn: [""]
 
   KgalagadiLinguisticGroup:
-     stringTokens: ["Kgalagadi", "Kgalagadi language", "Kgalagari", "Kgalagarhi", "Kgalagari", "Khalagari", "Khalakadi", "Kxhalaxadi", "Qhalaxarzi", "Shekgalagadi", "Shekgalagari", "Kqalaqadi")]
+     stringTokens: ["Kgalagadi", "Kgalagadi language", "Kgalagari", "Kgalagarhi", "Kgalagari", "Khalagari", "Khalakadi", "Kxhalaxadi", "Qhalaxarzi", "Shekgalagadi", "Shekgalagari", "Kqalaqadi"]
      wikidataQnode: ["Q2088743"]
      livesIn: [""]
      associatedethnicgroup: ["Kgalagadi"]

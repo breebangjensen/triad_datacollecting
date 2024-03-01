@@ -301,7 +301,8 @@ concepts:
      associatedEthnicGroup: ["IgboEthnicGroup"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-present"]
 
-   JRCarmedNonGovernmentalOrganizedGroup:
+
+  JRCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["JRC", "Joint Revolutionary Council"]
      regionsMostActive: ["Rivers", "Delta", "Bayelsa"]
      yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000s- present"]

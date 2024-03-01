@@ -25,12 +25,12 @@ concepts:
      livesIn: [""]
 
    AlgerianArabicLinguisticGroup:
-     stringTokens: ["Arabic", "Algerian Arabic]
+     stringTokens: ["Arabic", "Algerian Arabic"]
      wikidataQnode: ["Q56499"]
      livesIn: [""]
 
    ShenwaLinguisticGroup:
-     stringTokens: ["Chenoua", "Shenwa]
+     stringTokens: ["Chenoua", "Shenwa"]
      wikidataQnode: ["Q33276"]
      livesIn: ["Mount Chenoua", "Jebel Chenoua", "Cherchell", "Tipaza", "Chlef"]
 

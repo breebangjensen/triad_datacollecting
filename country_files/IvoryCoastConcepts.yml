@@ -113,7 +113,7 @@ concepts:
     flgoArmedNonGovernmentalOrganizedGroup:
       stringTokens: ["Great West Liberation Front", "FLGO", "Front de libération du Grand Ouest"]
     cojepproGovernmentMilitia:
-    stringTokens: ["Congrès Panafricain des Jeunes et des Patriotes", "COJEP", "Young Patriots"]
+      stringTokens: ["Congrès Panafricain des Jeunes et des Patriotes", "COJEP", "Young Patriots"]
 
     
 

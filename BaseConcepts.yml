@@ -1051,15 +1051,15 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Bamileke", "Mengaka", "Ngiemboon", "Ngombale", "Ngomba", "Ngwe", "Yemba", "Fe'fe'", "Ghomala'", "Kwaʼ", "Nda'nda'", "Medumba"]
     wikidataID: ["Q806017"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion", "muslimReligion"]
-bamumEthnicGroup:
+  bamumEthnicGroup:
     stringTokens: ["Bamum", "Bamoum", "Bamun", "Mum"]
     wikidataID: ["Q322083"]
     religionsMostPracticed: ["sunniReligion"]
-bandaEthnicGroup:
+  bandaEthnicGroup:
     stringTokens: ["Banda", "Central Banda", "South Banda", "West Banda"]
     wikidataID: ["Q806236"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "islamReligion"]
-bangweuluTwaEthnicGroup:
+  bangweuluTwaEthnicGroup:
     stringTokens: ["Bangweulu Twa"]
     wikidataID: ["Q7857394"]
     religionsMostPracticed: [""]
@@ -1067,15 +1067,15 @@ bangweuluTwaEthnicGroup:
     stringTokens: ["Baniwa"]
     wikidataID: ["Q614455"]
     religionsMostPracticed: ["shamanismReligion"]
-banjareseEthnicGroup:
+  banjareseEthnicGroup:
     stringTokens: ["Banjarese", "Banjar"]
     wikidataID: ["Q2350149"]
     religionsMostPracticed: ["sunniIslam"]
-barakTurkmensEthnicGroup:
+  barakTurkmensEthnicGroup:
     stringTokens: ["Barak Turkmens"]
     wikidataID: ["Q6075727"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "alevismReligion"]
-bariEthnicGroup:
+  bariEthnicGroup:
     stringTokens: ["Bari", "Pojulu", "Kakwa", "Nyangwara", "Mandari", "Kuku"]
     wikidataID: ["Q200453"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion"]
@@ -1154,7 +1154,7 @@ bariEthnicGroup:
   betawisEthnicGroup:
     stringTokens: ["Betawis", "betawinese"]
     wikidataID: ["Q2900057"]
-    religionsMostPracticed: ["sunniReligion""]
+    religionsMostPracticed: ["sunniReligion"]
   betiEthnicGroup:
     stringTokens: ["Beti", "Ewondo", "Eton", "Bati", "Betsi"]
     wikidataID: ["Q28208771"]
@@ -1165,7 +1165,7 @@ bariEthnicGroup:
     religionsMostPracticed: ["sunniReligion"]
   bhilsEthnicGroup:
     stringTokens: ["Bhils", "Barda", "Bhagalia", "Bhilala", "Bhil Gametia", "Bhil Garasia", "Bhil Kataria", "Bhil Mama", "Bhil Mavchi", "Dholi Bhil", "Dungri Bhil", "Damor", "Dungri Garasia", "Mewasi Bhil", "Nirdhi Bhil", "Rawal Bhil", "Tadvi Bhil", "Vasava", "Bhil Meena", "Chaudhri", "Bagdi"]
-     wikidataID: ["Q854970"]
+    wikidataID: ["Q854970"]
     religionsMostPracticed: ["hinduismReligion"]
   bhojpurisEthnicGroup:
     stringTokens: ["Bhojpuris", "Paswan", "Teli"]
@@ -1466,7 +1466,7 @@ bariEthnicGroup:
     religionsMostPracticed: [""]
   circassiansEthnicGroup:
     stringTokens: ["Circassians", "Abzakhs", "Adygeans", "Besleneys", "Bzhedugs", "Chemirgoys", "Cherkess", "Kabardians", "Natukhajs", "Shapsugs", "Ubykhs", "Hatuqways"]
-     wikidataID: ["Q8556754"]
+    wikidataID: ["Q8556754"]
     religionsMostPracticed: ["sunniReligion", "orthodoxReligion"]
   cireboneseEthnicGroup:
     stringTokens: ["Cirebonese"]
@@ -1668,7 +1668,7 @@ bariEthnicGroup:
   esanEthnicGroup:
     stringTokens: ["Esan", "Esa", "Ewu", "Isa", "Isan", "Ison", "Ishan", "Anwain"]
     wikidataID: ["Q3732778"]
-    religionsMostPracticed: ["christianReligion""]
+    religionsMostPracticed: ["christianReligion"]
   estoniansEthnicGroup:
     stringTokens: ["Estonians", "Setos", "Võros", "Hiiumaans", "Saaremaans", "Ludza Estonians", "Gauja Estonians"]
     wikidataID: ["Q173302"]
@@ -2357,7 +2357,7 @@ bariEthnicGroup:
   khasEthnicGroup:
     stringTokens: ["Khas", "Chhetri", "Thakuri", "Rana", "Vaisya", "Kami", "Damai", "Sarki", "Sunar", "Gandarbha"]
     wikidataID: ["Q3630408"]
-    religionsMostPracticed: ["hinduismReligion""]
+    religionsMostPracticed: ["hinduismReligion"]
   khasiEthnicGroup:
     stringTokens: ["Khasi", "Pnar"]
     wikidataID: ["Q1261144"]
@@ -2464,7 +2464,7 @@ bariEthnicGroup:
   kosraeansEthnicGroup:
     stringTokens: ["Kosraeans", "microniseans"]
     wikidataID: ["Q1566808"]
-    religionsMostPracticed: ["christianReligion""]
+    religionsMostPracticed: ["christianReligion"]
   kpelleEthnicGroup:
     stringTokens: ["Kpelle", "Gberese", "Gerze", "Guerze", "Kpelli", "Kpwélé", "Kpwesi", "Pessi"]
     wikidataID: ["Q930128"]
@@ -2665,7 +2665,7 @@ bariEthnicGroup:
   madureseEthnicGroup:
     stringTokens: ["Madurese", "Boyanese"]
     wikidataID: ["Q1258905"]
-    religionsMostPracticed: ["sunniReligion""]
+    religionsMostPracticed: ["sunniReligion"]
   mafaEthnicGroup:
     stringTokens: ["Mafa", "Mafahay", "Mofa", "Mafahi"]
     wikidataID: ["Q3276439"]
@@ -2748,7 +2748,7 @@ bariEthnicGroup:
   manchusEthnicGroup:
     stringTokens: ["Manchus", "manju"]
     wikidataID: ["Q145665"]
-    religionsMostPracticed: ["shamanismReligion", "buddhismReligion, "christianReligion"]
+    religionsMostPracticed: ["shamanismReligion", "buddhismReligion", "christianReligion"]
   mandaeansEthnicGroup:
     stringTokens: ["Mandaeans"]
     wikidataID: ["Q6747710"]
@@ -3190,8 +3190,7 @@ bariEthnicGroup:
     wikidataID: ["Q7103499"]
     religionsMostPracticed: ["muslimReligion"]
   oromoEthnicGroup:
-    stringTokens: ["Oromo", "Boorana", "Barento", "Salale", "Machaa", "Arsi", "Wollo", "Oromoo", "Galla", "Gallas", "Gala", "Gallinyas, "Ilma Orma", 
-                   "Orma", "Oromota"]
+    stringTokens: ["Oromo", "Boorana", "Barento", "Salale", "Machaa", "Arsi", "Wollo", "Oromoo", "Galla", "Gallas", "Gala", "Gallinyas", "Ilma Orma", "Orma", "Oromota"]
     wikidataID: ["Q318674"]
     religionsMostPracticed: ["muslimReligion", "christianReligion", "traditionalAfricanReligion"]
   ossetiansEthnicGroup:
@@ -3628,7 +3627,7 @@ bariEthnicGroup:
   sikaEthnicGroup:
     stringTokens: ["Sika"]
     wikidataID: ["Q1841832"]
-    religionsMostPracticed: ["christianReligion""]
+    religionsMostPracticed: ["christianReligion"]
   silesiansEthnicGroup:
     stringTokens: ["Silesians", "Cieszyn Vlachs"]
     wikidataID: ["Q30319"]
@@ -3714,7 +3713,7 @@ bariEthnicGroup:
   sriLankaMalaysEthnicGroup:
     stringTokens: ["Sri Lanka Malays", "javanese sri lankan"]
     wikidataID: ["Q58187"]
-    religionsMostPracticed: ["sunniReligion""]
+    religionsMostPracticed: ["sunniReligion"]
   sriLankanMoorsEthnicGroup:
     stringTokens: ["Sri Lankan Moors"]
     wikidataID: ["Q998494"]
@@ -3908,7 +3907,7 @@ bariEthnicGroup:
     wikidataID: ["Q47461062"]
     religionsMostPracticed: ["christianReligion", "muslimReligion"]
   tofalarsEthnicGroup:
-    stringTokens: ["Tofalars, "topfalars", "tofa"]
+    stringTokens: ["Tofalars", "topfalars", "tofa"]
     wikidataID: ["Q655404"]
     religionsMostPracticed: ["shamanismReligion", "animismReligion", "russianOrthodox"]
   tokelauansEthnicGroup:
@@ -4027,7 +4026,7 @@ bariEthnicGroup:
   ukrainiansEthnicGroup:
     stringTokens: ["Ukrainians", "Cossacks", "Litvins", "Pinchuks"]
     wikidataID: ["Q44806"]
-    religionsMostPracticed: ["russianOrthodox", "catholicReligion]
+    religionsMostPracticed: ["russianOrthodox", "catholicReligion"]
   ulsterProtestantsEthnicGroup:
     stringTokens: ["Ulster Protestants"]
     wikidataID: ["Q17017729)"]
@@ -4215,13 +4214,13 @@ bariEthnicGroup:
   zamboanguenosEthnicGroup:
     stringTokens: ["Zamboanguenos", "zamboangan"]
     wikidataID: ["Q526428"]
-    religionsMostPracticed: ["catholicReligion""]
+    religionsMostPracticed: ["catholicReligion"]
   zandeEthnicGroup:
     stringTokens: ["Zande", "Barambu", "niam-Niam", "sandeh", "azande"]
     wikidataID: ["Q793575"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
   zapotecsEthnicGroup:
-    stringTokens: ["Zapotecs", "Ixtlan, "Za Indians", "Be'ena'a", "Ben 'Zaa", "Binii Gula'sa'", "Didxazá", "Didxažon̳", "Dii'zh", "Sapoteko", "Sapotekos",
+    stringTokens: ["Zapotecs", "Ixtlan", "Za Indians", "Be'ena'a", "Ben 'Zaa", "Binii Gula'sa'", "Didxazá", "Didxažon̳", "Dii'zh", "Sapoteko", "Sapotekos",
                    "Tsapotecatl", "Za", "Zapotecas", "Zapoteco", "Zapotec Indians", "Be'ena'a Indians", "Ben 'Zaa Indians", "Binii Gula'sa' Indians", 
                    "Didxažon̳ Indians", "Tsapotecatl Indians"]
     wikidataID: ["Q147401"]

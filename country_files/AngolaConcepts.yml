@@ -62,7 +62,7 @@ concepts:
 
   ## linguisticgroups
     BoloLinguisticGroup:
-     stringTokens: ["Bolo", "Kibala", "Ngoya", "]
+     stringTokens: ["Bolo", "Kibala", "Ngoya"]
      wikidataQnode: ["Q4939959"]
      livesIn: [""]
 
@@ -100,13 +100,13 @@ concepts:
      associatedethnicgroup: ["Ambundu"]
      
     OshiwamboLinguisticGroup:
-     stringTokens: ["Ovambo", "Oshiwambo", "]
+     stringTokens: ["Ovambo", "Oshiwambo"]
      wikidataQnode: ["Q36489"]
      livesIn: [""]
      associatedethnicgroup: ["Owambo"]
 
     KwadiLinguisticGroup:
-     stringTokens: ["Kwadi", "Khoisan]
+     stringTokens: ["Kwadi", "Khoisan"]
      wikidataQnode: ["Q2364661"]
      livesIn: [""]
 
@@ -174,7 +174,7 @@ concepts:
      livesIn: ["Okavango", "Ovamboland Territory"]
 
     Kwandu:
-     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language]
+     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language"]
      wikidataQnode: ["Q10962737"]
      livesIn: [""]
 

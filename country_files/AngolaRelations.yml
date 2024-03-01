@@ -4,7 +4,7 @@ relations:
   - (EthnicGroup, AmbunduEthnicGroup)
   - (EthnicGroup, BakongoEthnicGroup)
   - (EthnicGroup, ChokweEthnicGroup)
-  - (EhtnicGroup, OvamboEthnicGroup)
+  - (EthnicGroup, OvamboEthnicGroup)
   - (EthnicGroup, GanguelaEthnicGroup)
   - (EthnicGroup, XindongaEthnicGroup)
   - (EthnicGroup, YombeEthnicGroup)

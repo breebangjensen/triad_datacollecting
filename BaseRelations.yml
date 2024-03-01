@@ -341,7 +341,7 @@ relations:  # parent concept, child concept, tuples
     - (ethnicGroup, friuliansEthnicGroup)
     - (ethnicGroup, fulaEthnicGroup)
     - (ethnicGroup, furEthnicGroup)
-    - (thnicGroup, fuyuKyrgyzEthnicGroup)
+    - (ethnicGroup, fuyuKyrgyzEthnicGroup)
     - (ethnicGroup, gaAdangbeEthnicGroup)
     - (ethnicGroup, gabrielenosEthnicGroup)
     - (ethnicGroup, gagauzEthnicGroup)
