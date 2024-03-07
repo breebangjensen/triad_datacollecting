@@ -61,7 +61,7 @@ relations:  # parent concept, child concept, tuples
     - (informationCollectionOrganization, spies)
     - (nonGovernmentalOrganizedGroup, laborGroup)  # use this only for nongov labor groups
     - (laborGroup, laborUnion)
-    - (Group, horizontalInequalityGroup)
+    - (Group, horizontalInequalityGroups)
     - (horizontalInequalityGroups, ethnicGroup)  # ethnic group does not have to be organized
     - (ethnicGroup, hispanicEthnicGroup)
     - (ethnicGroup, mayaEthnicGroup)
@@ -988,7 +988,7 @@ relations:  # parent concept, child concept, tuples
     - (employmentGroup, farmers)
     - (employmentGroup, bankersFinancial)
     - (employmentGroup, unemployed)
-    - (horizontalInequalityGroup, religionGroup)  # assuming organized religion, government could be controlled by a religious group, so connect to organized group and not nonGovernmentalOrg
+    - (horizontalInequalityGroups, religionGroup)  # assuming organized religion, government could be controlled by a religious group, so connect to organized group and not nonGovernmentalOrg
     - (religionGroup, christianReligion)
     - (christianReligion, orthodoxChristian)
     - (orthodoxReligion, greekOrthodox)
@@ -1081,7 +1081,7 @@ relations:  # parent concept, child concept, tuples
     - (traditionalAfricanReligion, yorubaReligion)
     - (traditionalAfricanReligion, dogonReligion)
     - (traditionalAfricanReligion, ifaReligion)
-    - (horizontalInequalityGroup, linguisticGroup)
+    - (horizontalInequalityGroups, linguisticGroup)
     - (people, bodyParts)
     - (linguisticGroup, englishlinguisticGroup)
     - (linguisticGroup, spanishlinguisticGroup)
