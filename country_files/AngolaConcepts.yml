@@ -173,8 +173,9 @@ concepts:
      wikidataQnode: ["Q56528"]
      livesIn: ["Okavango", "Ovamboland Territory"]
 
-    Kwandu:
-     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language"]
+
+    KwanduLinguisticGroup:
+     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language]
      wikidataQnode: ["Q10962737"]
      livesIn: [""]
 
