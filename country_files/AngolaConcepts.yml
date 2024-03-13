@@ -175,7 +175,7 @@ concepts:
 
 
     KwanduLinguisticGroup:
-     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language]
+     stringTokens: ["Mashi", "Kamax", "Kwandu", "Kwandu language"]
      wikidataQnode: ["Q10962737"]
      livesIn: [""]
 

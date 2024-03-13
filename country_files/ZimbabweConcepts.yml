@@ -70,7 +70,7 @@ concepts:
   #Ethnic groups with population share less than 1% are omitted.
   ###LinguisticGroups
   DombeLinguisticGroup:
-    stringTokens: ["Ndombe", "Dombe]
+    stringTokens: ["Ndombe", "Dombe"]
     wikidataQnode: ["Q6983792"]
     livesIn: [""] 
     associatedethnicgroup: [""]

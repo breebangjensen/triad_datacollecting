@@ -117,7 +117,7 @@ concepts:
    stringTokens: ["Luyana"]
    wikidataQnode: ["Q3268098"]
    livesIn: ["Okavango River"] 
-   associatedethnicgroup: ["Luyana people", "Lozi people]
+   associatedethnicgroup: ["Luyana people", "Lozi people"]
  Mambwe-LunguLinguisticGroup:
    stringTokens: ["Mambwe-Lungu"]
    wikidataQnode: ["Q626210"]

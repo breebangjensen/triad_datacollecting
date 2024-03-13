@@ -31,12 +31,12 @@ concepts:
    religionsMostPracticed: ["African traditional religion", "Christianity"]
    livesIn: [""]
   
-   AfrikanersEthnicGroup:
-    stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
-    wikidataQnode: ["Q385799"]
-    languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
-    religionsMostPracticed: ["Calvinism", "Protestantism", "Catholicism"]
-    livesIn: [""]
+  AfrikanersEthnicGroup:
+   stringTokens: ["Afrikaners", "Afrikaner", "Afrikaner people", "Afrikander", "Boers"]
+   wikidataQnode: ["Q385799"]
+   languagesMostSpoken: ["Afrikaans", "English", "Bantu languages"]
+   religionsMostPracticed: ["Calvinism", "Protestantism", "Catholicism"]
+   livesIn: [""]
 
    # Ethnic groups with population share less than 1% are omitted.
 

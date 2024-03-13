@@ -1070,26 +1070,17 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Bamileke", "Mengaka", "Ngiemboon", "Ngombale", "Ngomba", "Ngwe", "Yemba", "Fe'fe'", "Ghomala'", "Kwaʼ", "Nda'nda'", "Medumba"]
     wikidataID: ["Q806017"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion", "muslimReligion"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: ["frenchlinguisticGroup", "englishlinguisticGroup", "nigerianPidginlinguisticGroup"]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   bamumEthnicGroup:
     stringTokens: ["Bamum", "Bamoum", "Bamun", "Mum"]
     wikidataID: ["Q322083"]
     religionsMostPracticed: ["sunniReligion"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: [""]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   bandaEthnicGroup:
     stringTokens: ["Banda", "Central Banda", "South Banda", "West Banda"]
     wikidataID: ["Q806236"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "islamReligion"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: [""]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   bangweuluTwaEthnicGroup:
     stringTokens: ["Bangweulu Twa"]
     wikidataID: ["Q7857394"]
@@ -1099,26 +1090,17 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Baniwa"]
     wikidataID: ["Q614455"]
     religionsMostPracticed: ["shamanismReligion"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: ["portugeselinguisticGroup"]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   banjareseEthnicGroup:
     stringTokens: ["Banjarese", "Banjar"]
     wikidataID: ["Q2350149"]
     religionsMostPracticed: ["sunniIslam"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: ["indonesianlinguisticGroup"]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   barakTurkmensEthnicGroup:
     stringTokens: ["Barak Turkmens"]
     wikidataID: ["Q6075727"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "alevismReligion"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: ["turkishlinguisticGroup", "arabiclinguisticGroup"]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   bariEthnicGroup:
     stringTokens: ["Bari", "Pojulu", "Kakwa", "Nyangwara", "Mandari", "Kuku"]
     wikidataID: ["Q200453"]
@@ -1218,10 +1200,7 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Betawis", "betawinese"]
     wikidataID: ["Q2900057"]
     religionsMostPracticed: ["sunniReligion"]
-<<<<<<< HEAD
-=======
     languagesMostSpoken: ["indonesianlinguisticGroup"]
->>>>>>> d29907b73fe54958e17a898a57d57560fd30fc2f
   betiEthnicGroup:
     stringTokens: ["Beti", "Ewondo", "Eton", "Bati", "Betsi"]
     wikidataID: ["Q28208771"]

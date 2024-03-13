@@ -1,15 +1,15 @@
 concepts:
- DjiboutiSecurityForces:
-  stringTokens: ["Djibouti Armed Forces", "DJAF", " Force Armée Djiboutienne", "FAD", "Ciidanka Jabuuti", "Djibouti military", "mil Djibouti", "military of Djibouti"]
-  wikidataQnode: ["Q516051"]
-   
-###EthnicGroups:
- SomalisEthnicGroup:
-  stringTokens: ["Somalis", "Somali", "Soomaali", "Issa"]
-  wikidataQnode: ["Q241696"]
-  languagesMostSpoken: ["Somali language"]
-  religionsMostPracticed: ["Sunni Islam"]
-  livesIn: ["Dikhil Region", "Arta Region", "Ali Sabieh Region", "Djibouti Region"]
+  DjiboutiSecurityForces:
+   stringTokens: ["Djibouti Armed Forces", "DJAF", " Force Armée Djiboutienne", "FAD", "Ciidanka Jabuuti", "Djibouti military", "mil Djibouti", "military of Djibouti"]
+   wikidataQnode: ["Q516051"]
+    
+ ###EthnicGroups:
+  SomalisEthnicGroup:
+   stringTokens: ["Somalis", "Somali", "Soomaali", "Issa"]
+   wikidataQnode: ["Q241696"]
+   languagesMostSpoken: ["Somali language"]
+   religionsMostPracticed: ["Sunni Islam"]
+   livesIn: ["Dikhil Region", "Arta Region", "Ali Sabieh Region", "Djibouti Region"]
 
   AfarEthnicGroup:
    stringTokens: ["Afar", "Afar people", "Danakil", "Adali", "Odali"]
