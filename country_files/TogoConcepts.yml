@@ -115,7 +115,7 @@ concepts:
      associatedethnicgroup: ["Akebu people"]
 
     IkposoLinguisticGroup:
-     stringTokens: ["Ikposo", "Kposo]  
+     stringTokens: ["Ikposo", "Kposo"]  
      wikidataQnode: ["Q35029"]  
      livesIn: ["Plateau Region", "Volta Region"]  
      associatedethnicgroup: ["Akposso people", "Kposo"]

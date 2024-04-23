@@ -1,64 +1,64 @@
 concepts:
   MauritiusPoliceForce:
-    stringTokens: ["Mauritius Police Force", "MPF", "military of Zimbabwe"]
-    wikidataQnode: ["Q6793789"]
+   stringTokens: ["Mauritius Police Force", "MPF", "military of Zimbabwe"]
+   wikidataQnode: ["Q6793789"]
 
 ###EthnicGroups:
   HinduEthnicGroup:
-    stringTokens: ["Hindus", "follower of Hinduism", "Hindus", "Hindoo", "Hindoos", "adherent of Hinduism", "Hinduism adherent"]
-    wikidataQnode: ["Q10090"]
-    languagesMostSpoken: ["Hindi", "Creole", "Bhojpuri", "Tamil"]
-    religionsMostPracticed: ["Hinduism"]
-    livesIn: ["Flacq", "Grand Port", "Moka", "Plaines Wilhems", "Rivière du Rempart", "Savanne", "Rodrigues"]
+   stringTokens: ["Hindus", "follower of Hinduism", "Hindus", "Hindoo", "Hindoos", "adherent of Hinduism", "Hinduism adherent"]
+   wikidataQnode: ["Q10090"]
+   languagesMostSpoken: ["Hindi", "Creole", "Bhojpuri", "Tamil"]
+   religionsMostPracticed: ["Hinduism"]
+   livesIn: ["Flacq", "Grand Port", "Moka", "Plaines Wilhems", "Rivière du Rempart", "Savanne", "Rodrigues"]
     
   CreolesEthnicGroup:
-    stringTokens: ["Creole", "Crioulo", "Criollo", "Creolo", "Créole", "Kriolu", "Criol", "Kreyol", "Kreol", "Kriol", "Krio", "Kriyoyo", "Creoles", "Creole people", "Creole peoples"]
-    wikidataQnode: ["Q498640"]
-    languagesMostSpoken: ["Creole languages", "Creole", "French"]
-    religionsMostPracticed: ["Christianity", "Rastafari"]
-    livesIn: ["Port Louis", "Rivière Noire", "Pamplemousses"]
+   stringTokens: ["Creole", "Crioulo", "Criollo", "Creolo", "Créole", "Kriolu", "Criol", "Kreyol", "Kreol", "Kriol", "Krio", "Kriyoyo", "Creoles", "Creole people", "Creole peoples"]
+   wikidataQnode: ["Q498640"]
+   languagesMostSpoken: ["Creole languages", "Creole", "French"]
+   religionsMostPracticed: ["Christianity", "Rastafari"]
+   livesIn: ["Port Louis", "Rivière Noire", "Pamplemousses"]
   
   MuslimsEthnicGroup:
-    stringTokens: ["Muslims", "Muslim people"]
-    wikidataQnode: ["Q47740"]
-    languagesMostSpoken: ["Creole", "Arabic", "Urdu"]
-    religionsMostPracticed: ["Islam", "Sunnis", "Sunni Shafia", "Shia", "Bohra"]
-    livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
+   stringTokens: ["Muslims", "Muslim people"]
+   wikidataQnode: ["Q47740"]
+   languagesMostSpoken: ["Creole", "Arabic", "Urdu"]
+   religionsMostPracticed: ["Islam", "Sunnis", "Sunni Shafia", "Shia", "Bohra"]
+   livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
   
   TamilEthnicGroup:
-    stringTokens: ["Tamil", "Tamils", "Tamil people", "Damulian", "Tamal", "Tamalsan", "Tambul", "Tamilans", "Tamilian", "Tamilians", "Tamilar", "Tamilarkar", "Tamili", "Tamizhar"]
-    wikidataQnode: ["Q173491"]
-    languagesMostSpoken: ["Tamil", "Creole", "English", "French"]
-    religionsMostPracticed: ["Hinduism", "Christianity"]
-    livesIn: ["Port Louis", "Moka", "Plaines Wilhems"]
+   stringTokens: ["Tamil", "Tamils", "Tamil people", "Damulian", "Tamal", "Tamalsan", "Tambul", "Tamilans", "Tamilian", "Tamilians", "Tamilar", "Tamilarkar", "Tamili", "Tamizhar"]
+   wikidataQnode: ["Q173491"]
+   languagesMostSpoken: ["Tamil", "Creole", "English", "French"]
+   religionsMostPracticed: ["Hinduism", "Christianity"]
+   livesIn: ["Port Louis", "Moka", "Plaines Wilhems"]
   
   TelugusEthnicGroup:
-    stringTokens: ["Telugus", "Telugu people"]
-    wikidataQnode: ["Q418708"]
-    languagesMostSpoken: ["Telugu"]
-    religionsMostPracticed: ["Hinduism", "Christianity", "Islam", "Buddhism"]
-    livesIn: ["Port Louis"]
+   stringTokens: ["Telugus", "Telugu people"]
+   wikidataQnode: ["Q418708"]
+   languagesMostSpoken: ["Telugu"]
+   religionsMostPracticed: ["Hinduism", "Christianity", "Islam", "Buddhism"]
+   livesIn: ["Port Louis"]
   
   MarathisEthnicGroup:
-    stringTokens: ["Marathi people", "Marathis"]
-    wikidataQnode: ["Q1265028"]
-    languagesMostSpoken: ["Marathi"]
-    religionsMostPracticed: ["Hinduism", "Christianity", "Islam", "Buddhism", "Jainism", "Judaism"]
-    livesIn: ["Port Louis"]
+   stringTokens: ["Marathi people", "Marathis"]
+   wikidataQnode: ["Q1265028"]
+   languagesMostSpoken: ["Marathi"]
+   religionsMostPracticed: ["Hinduism", "Christianity", "Islam", "Buddhism", "Jainism", "Judaism"]
+   livesIn: ["Port Louis"]
   
   FrancoMauritiansEthnicGroup:
-    stringTokens: ["Franco-Mauritians", "White"]
-    wikidataQnode: ["Q3082329"]
-    languagesMostSpoken: ["French", "Creole"]
-    religionsMostPracticed: ["Catholicism"]
-    livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
+   stringTokens: ["Franco-Mauritians", "White"]
+   wikidataQnode: ["Q3082329"]
+   languagesMostSpoken: ["French", "Creole"]
+   religionsMostPracticed: ["Catholicism"]
+   livesIn: ["Port Louis", "Rivière Noire", "Moka", "Pamplemousses", "Plaines Wilhems"]
 
 ## linguisticgroups
-   MauritianCreoleLinguisticGroup:
-     stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
-     wikidataQnode: ["Q33661"]
-     livesIn: [""]
-     associatedethnicgrouo: ["Mauritian Creoles"]
+  MauritianCreoleLinguisticGroup:
+   stringTokens: ["Mauritian Creole", "Morisien", "Morisyen", "Mauritian", "kreol morisyen", "kreol morisien"]
+   wikidataQnode: ["Q33661"]
+   livesIn: [""]
+   associatedethnicgrouo: ["Mauritian Creoles"]
   
 ##PoliticalParties
 

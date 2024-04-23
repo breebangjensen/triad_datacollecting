@@ -120,7 +120,7 @@ concepts:
    livesIn: ["Bombo"]  
    associatedethnicgroup: ["Ugandan Nubians"]
   KumamLinguisticGroup:
-   stringTokens: ["Kumam dialect", "Kumam]  
+   stringTokens: ["Kumam dialect", "Kumam"]  
    wikidataQnode: ["Q6443410"]  
    livesIn: ["Teso district"]  
    associatedethnicgroup: ["Kumam people"]
@@ -173,12 +173,12 @@ concepts:
    stringTokens: ["Ma’di"]  
    wikidataQnode: ["Q56670"]  
    livesIn: ["Adjumani", "Moyo"]  
-   associatedethnicgroup: ["Madi people", "Madi]
+   associatedethnicgroup: ["Madi people", "Madi"]
   MasabaLinguisticGroup:
    stringTokens: ["Masaba", "Gisu", "Masaaba"] 
    wikidataQnode: ["Q3740241"]  
    livesIn: ["Eastern Uganda", "south of the Kupsabiny", "Bugisu Province"]  
-   associatedethnicgroup: ["Masaba", "Luhya]
+   associatedethnicgroup: ["Masaba", "Luhya"]
   NyoleLinguisticGroup:
    stringTokens: ["Nyole", "LoNyole", "Lunyole", "Nyuli"]  
    wikidataQnode: ["Q3739448"]  
@@ -190,7 +190,7 @@ concepts:
    livesIn: ["Ankole"]  
    associatedethnicgroup: ["Banyankore"]
   NyoroLinguisticGroup:
-   stringTokens: ["Nyoro", "Runyoro]  
+   stringTokens: ["Nyoro", "Runyoro"]
    wikidataQnode: ["Q33794"]  
    livesIn: ["Bunyoro"]  
    associatedethnicgroup: ["Banyoro"]
@@ -208,7 +208,7 @@ concepts:
    stringTokens: ["Amba", "Bulebule", "Hamba", "Humu", "Kihumu", "Ku-Amba", "Kuamba", "Lubulebule", "Lwamba", "Ruwenzori Kibira", "Rwamba"]  
    wikidataQnode: ["Q788423"]  
    livesIn: [""]  
-   associatedethnicgroup: ["Amba", "Amba people]
+   associatedethnicgroup: ["Amba", "Amba people"]
   TesoLinguisticGroup:
    stringTokens: ["Teso"]  
    wikidataQnode: ["Q29474"]  
@@ -220,7 +220,7 @@ concepts:
    livesIn: [""]  
    associatedethnicgroup: [""]
   TooroLinguisticGroup:
-   stringTokens: ["Tooro", "Rutooro", "Rutoro]  
+   stringTokens: ["Tooro", "Rutooro", "Rutoro"]  
    wikidataQnode: ["Q7824218"]  
    livesIn: ["Tooro Kingdom"]  
    associatedethnicgroup: ["Batooro"]
