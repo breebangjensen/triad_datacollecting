@@ -484,9 +484,9 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
   tagaloglinguisticGroup:
     stringTokens: ["tagalog", "tagalog language", 	"Bataan", "Batangas", "Bulacan", "Lubang", "manila tagalog", "marinduque tagalog", "puray tagalog", "tanay-paete", 
                   "tayabas", "filipino"]
-  frenchLinguisticGroup:
+  frenchlinguisticGroup:
     stringTokens: ["french", "french language"]
-  aramaicLinguisticGroup:
+  aramaiclinguisticGroup:
     stringTokens: ["aramaic", "aramaic language"]
   koreanlinguisticGroup:
     stringTokens: ["korean", "korean language", "hamgyong", "pyongan", "central korean", "gyeongsang", "jeolla", "jeju", "Ryukchin", "Yukchin"]
@@ -1283,428 +1283,533 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     stringTokens: ["Blaan"]
     wikidataID: ["Q4086649"]
     religionsMostPracticed: [""]
-    languagesMostSpoken: [""]
+    languagesMostSpoken: ["tagaloglinguisticGroup"]
   blackfootEthnicGroup:
     stringTokens: ["Blackfoot", "Kainai Nation", "Piegan Blackfeet", "Piikani Nation", "Siksika Nation"]
     wikidataID: ["Q1680351"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: [""]
   boaEthnicGroup:
     stringTokens: ["Boa", "Baboa", "Babua", "Ababwa", "Bwa", "Ababua", "Bobwa", "Mangbua", "Ababua", "Babwa"]
     wikidataID: ["Q2907504"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   bodoEthnicGroup:
     stringTokens: ["Bodo", "Mech", "Kachari", "boros"]
     wikidataID: ["Q1266593"]
     religionsMostPracticed: ["hinduismReligion", "baptistReligion"]
+    languagesMostSpoken: [""]
   bokotaEthnicGroup:
     stringTokens: ["Bokota", "bogota", "bugleres"]
     wikidataID: ["Q4938810"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   bondeiEthnicGroup:
     stringTokens: ["Bondei"]
     wikidataID: ["Q1613483"]
     religionsMostPracticed: ["muslimReligion", "christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["swahililinguisticGroup"]
   bororoEthnicGroup:
     stringTokens: ["Bororo"]
     wikidataID: ["Q894069"]
     religionsMostPracticed: ["animismReligion"]
+    languagesMostSpoken: ["portugeselinguisticGroup"]
   bosniaksEthnicGroup:
     stringTokens: ["Bosniaks"]
     wikidataID: ["Q8307806"]
     religionsMostPracticed: ["sunniIslam"]
+    languagesMostSpoken: [""]
   botlikhsEthnicGroup:
     stringTokens: ["Botlikhs"]
     wikidataID: ["Q2029821"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   bouyeiEthnicGroup:
     stringTokens: ["Bouyei", "Giay"]
     wikidataID: ["Q673161"]
     religionsMostPracticed: ["buddhismReligion", "moismReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   bozoEthnicGroup:
     stringTokens: ["Bozo", "Bosso", "Sorko", "sorogo"]
     wikidataID: ["Q896172"]
     religionsMostPracticed: ["muslimReligion", "animismReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   brahuisEthnicGroup:
     stringTokens: ["Brahuis", "Raisani", "Jhalawan", "Sarawan", "Mengal", "Zagar", "Zakria Zae", "Sasoli", "sarpara"]
     wikidataID: ["Q1258854"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   bretonsEthnicGroup:
     stringTokens: ["Bretons"]
     wikidataID: ["Q309197"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   bribriEthnicGroup:
     stringTokens: ["Bribri"]
     wikidataID: ["Q913374"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   bruEthnicGroup:
     stringTokens: ["Bru"]
     wikidataID: ["Q991396"]
     religionsMostPracticed: ["animismReligion", "theravadaismReligion"]
+    languagesMostSpoken: ["vietnameselinguisticGroup", "thailinguisticGroup"]
   bruneianEthnicGroup:
     stringTokens: ["Bruneian", "Kedayan Bruneian"]
     wikidataID: ["Q99920407"]
     religionsMostPracticed: ["sunniReligion", "christianReligion", "buddhismReligion"]
+    languagesMostSpoken: [""]
   bubiEthnicGroup:
     stringTokens: ["Bubi", "Bobe", "Bube", "Boube"]
     wikidataID: ["Q41477"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup", "frenchlinguisticGroup", "portugeselinguisticGroup"]
   buduEthnicGroup:
     stringTokens: ["Budu", "Babodo", "Bodo", "Mabodu", "Mabudu"]
     wikidataID: ["Q2927589"]
     religionsMostPracticed: ["catholicReligion", "evangelicalProtestant", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   budukhsEthnicGroup:
     stringTokens: ["Budukhs"]
     wikidataID: ["Q2658415"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   budumaEthnicGroup:
     stringTokens: ["Buduma", "Boudouma", "Yedina"]
     wikidataID: ["Q2921499"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: [""]
   bugineseEthnicGroup:
     stringTokens: ["Buginese", "bugis"]
     wikidataID: ["Q1002570"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   bulgariansEthnicGroup:
     stringTokens: ["Bulgarians", "Pomaks", "Paulicians", "Macedonian Bulgarians", "Bessarabian Bulgarians", "Dobrujan Bulgarians", "Thracian Bulgarians"]
     wikidataID: ["Q133255"]
     religionsMostPracticed: ["greekOrthodox"]
+    languagesMostSpoken: [""]
   bununEthnicGroup:
     stringTokens: ["Bunun"]
     wikidataID: ["Q9681618"]
     religionsMostPracticed: ["animismReligion", "christianReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   burghersEthnicGroup:
     stringTokens: ["Burghers", "Dutch Burghers", "Portuguese Burghers"]
     wikidataID: ["Q206642"]
     religionsMostPracticed: ["catholicReligion", "anglicanReligion", "buddhismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "tamillinguisticGroup"]
   burushosEthnicGroup:
     stringTokens: ["Burushos"]
     wikidataID: ["Q367765"]
     religionsMostPracticed: ["shiaReligion"]
+    languagesMostSpoken: [""]
   buryatsEthnicGroup:
     stringTokens: ["Buryats"]
     wikidataID: ["Q207050"]
     religionsMostPracticed: ["buddhismReligion", "russianOrthodox", "shamanism"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   butoneseEthnicGroup:
     stringTokens: ["Butonese"]
     wikidataID: ["Q12517193"]
     religionsMostPracticed: ["muslimReligion"]
+    languagesMostSpoken: ["indonesianlinguisticGroup"]
   bwaEthnicGroup:
     stringTokens: ["Bwa", "Bua", "Bobo Oule", "Bobo Wule", "Boo", "Buaba", "Buamu", "Red Bobo", "Bwamu", "Bwana"]
     wikidataID: ["Q1018432"]
     religionsMostPracticed: ["animismReligion", "muslimReligion", "christianReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   cahuillaEthnicGroup:
     stringTokens: ["Cahuilla", "Pass Cahuilla", "Agua Caliente Cahuilla", "Morongo Cahuilla", "Mountain Cahuilla", "Cahuilla Band of Indians", "Los Coyotes Cahuilla", "Ramona Cahuilla", "Santa Rosa Cahuilla", "Desert Cahuilla", "Augustine Cahuilla", "Cabazon Cahuillla", "Torres Martinez Desert Cahuilla"]
     wikidataID: ["Q547748"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   caldocheEthnicGroup:
     stringTokens: ["Caldoche"]
     wikidataID: ["Q2478459"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   camminantiEthnicGroup:
     stringTokens: ["Camminanti"]
     wikidataID: [""]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   canaryIslandersEthnicGroup:
     stringTokens: ["Canary Islanders", "Isleños", "Louisiana Isleños"]
     wikidataID: ["Q5031141"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   capeColouredsEthnicGroup:
     stringTokens: ["Cape Coloureds"]
     wikidataID: ["Q402525"]
     religionsMostPracticed: ["anglicanReligion", "catholicReligion", "sunniReligion"]
+    languagesMostSpoken: ["afrikaanslinguisticGroup", "englishlinguisticGroup"]
   capeMalaysEthnicGroup:
     stringTokens: ["Cape Malays"]
     wikidataID: ["Q1276753"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["afrikaanslinguisticGroup", "englishlinguisticGroup", "arabiclinguisticGroup"]
   capeVerdeansEthnicGroup:
     stringTokens: ["Cape Verdeans"]
     wikidataID: ["Q6994845"]
     religionsMostPracticed: ["catholicReligion", "christianReligion"]
+    languagesMostSpoken: ["portugeselinguisticGroup"]
   caroliniansEthnicGroup:
     stringTokens: ["Carolinians", "Refaluwasch"]
     wikidataID: ["Q1282773"]
     religionsMostPracticed: ["shamanismReligion", "catholicReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   catalansEthnicGroup:
     stringTokens: ["Catalans", "Balears", "Algherese", "Andorrans", "Roussillonese"]
     wikidataID: ["Q244504"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   cayugaEthnicGroup:
     stringTokens: ["Cayuga"]
     wikidataID: ["Q210334"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chagaEthnicGroup:
     stringTokens: ["Chaga", "Chagga", "Djaga", "Dschagga", "Wachagga", "Caga", "dschaga", "jajja", "kichaga", "kishaka", "wachaga", "wadschagga", "washaga"] 
     wikidataID: ["Q920233"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["swahililinguisticGroup"]
   chagossiansEthnicGroup:
     stringTokens: ["Chagossians"]
     wikidataID: ["Q25002872"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["seychelloisCreolelinguisticGroup", "englishlinguisticGroup", "frenchlinguisticGroup"]
   chaharmahaliTurksEthnicGroup:
     stringTokens: ["Chaharmahali Turks"]
     wikidataID: ["Q108864467"]
     religionsMostPracticed: ["shiaReligion"]
+    languagesMostSpoken: ["iranianPersianlinguisticGroup"]
   chakmasEthnicGroup:
     stringTokens: ["Chakmas"]
     wikidataID: ["Q1059355"]
     religionsMostPracticed: ["thervadaismReligion"]
+    languagesMostSpoken: [""]
   chamorroEthnicGroup:
     stringTokens: ["Chamorro"]
     wikidataID: ["Q1060991"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chamsEthnicGroup:
     stringTokens: ["Chams", "Churu", "Jarai", "Rade", "Raglai", "Utsuls", "chamalea"]
     wikidataID: ["Q383256"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "hinduismReligion"]
+    languagesMostSpoken: ["vietnameselinguisticGroup"]
   charruaEthnicGroup:
     stringTokens: ["Charrúa", "Chaná"]
     wikidataID: ["Q527478"]
     religionsMostPracticed: ["animismReligion"]
+    languagesMostSpoken: [""]
   chechensEthnicGroup:
     stringTokens: ["Chechens", "Kists", "Chechen Kurds", "Aukhs"]
     wikidataID: ["Q31230"]
     religionsMostPracticed: ["sunniIslam"]
+    languagesMostSpoken: [""]
   chehalisEthnicGroup:
     stringTokens: ["Chehalis", "Lower Chehalis", "Upper Chehalis"] 
     wikidataID: ["Q821901"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   chelkansEthnicGroup:
     stringTokens: ["Chelkans", "shalgan"] 
     wikidataID: ["Q2632800"]
     religionsMostPracticed: ["russianOrthodoxReligion", "animismReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chepangEthnicGroup:
     stringTokens: ["Chepang"]
     wikidataID: ["Q2962691"]
     religionsMostPracticed: ["hinduismReligion", "christianReligion"]
+    languagesMostSpoken: [""]
   chenouasEthnicGroup:
     stringTokens: ["Chenouas", "chenouis"]
     wikidataID: ["Q1775933"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["arabiclinguisticGroup"]
   cherokeeEthnicGroup:
     stringTokens: ["Cherokee", "Cherokee Nation", "Eastern Band", "United Keetoowah Band", "Cherokee Freedmen"]
     wikidataID: ["Q105405)"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chewaEthnicGroup:
     stringTokens: ["Chewa"]
     wikidataID: ["Q1071390"]
     religionsMostPracticed: ["christianReligion", "muslimReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "portugeselinguisticGroup"]
   cheyennesEthnicGroup:
     stringTokens: ["Cheyennes"]
     wikidataID: ["Q322951"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chineseTatarsEthnicGroup:
     stringTokens: ["Chinese Tatars", "Nanais", "Nanai", "Hezhen", "Yupi Dazi", "Fishskin Tartars", "Fish-skin Tartars", "Yupi", "Yupi Tartars", "Yu-pi",
                    "Yu-p'i", "Ke-tching", "Ke-tchen", "Ketching", "Ketchen", "Gaiqing", "Kai-ching", "Kai-ch'ing", "Yu-pi-ta-se", "Yupi Tase"]
     wikidataID: ["Q504574"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   choctawEthnicGroup:
     stringTokens: ["Choctaw", "Choctaw Freedmen"]
     wikidataID: ["Q8364403"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chokweEthnicGroup:
     stringTokens: ["Chokwe", "Tchokwe", "Ciokwe", "Cokwe", "Bajokwe", "Badjok", "Quioco"]
     wikidataID: ["Q1075883"]
     religionsMostPracticed: ["christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["enlgishlinguisticGroup", "portugeselinguisticGroup", "frenchlinguisticGroup"]
   choRoEthnicGroup:
     stringTokens: ["Cho Ro"]
     wikidataID: ["Q4468164"]
     religionsMostPracticed: ["animismReligion", "thervadaReligion"]
+    languagesMostSpoken: ["vietnameselinguisticGroup"]
   chuanqingEthnicGroup:
     stringTokens: ["Chuanqing"]
     wikidataID: ["Q5115220"]
     religionsMostPracticed: ["buddhismReligion", "taoismReligion", "confucianismReligion", "christianReligion", "traditionalAfricanReligion"]
+    languagesMostSpoken: ["mandarinChineselinguisticGroup"]
   chukchisEthnicGroup:
     stringTokens: ["Chukchi", "chukchee"]
     wikidataID: ["Q106991"]
     religionsMostPracticed: ["shamanismReligion", "russianOrthodox"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chulymsEthnicGroup:
     stringTokens: ["Chulyms"]
     wikidataID: ["Q32736432"]
     religionsMostPracticed: ["russianOrthodox", "shamanismReligion", "muslimReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chumashEthnicGroup:
     stringTokens: ["Chumash"]
     wikidataID: ["Q24251468"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   chutiyaEthnicGroup:
     stringTokens: ["Chutiya", "Deori", "sutia", "chutia"]
     wikidataID: ["Q25682200"]
     religionsMostPracticed: ["hinduismReligion"]
+    languagesMostSpoken: [""]
   chuukeseEthnicGroup:
     stringTokens: ["Chuukese"]
     wikidataID: ["Q1568155"]
     religionsMostPracticed: ["catholicReligion", "protestantReligion", "mormonReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   chuvansEthnicGroup:
     stringTokens: ["Chuvans"]
     wikidataID: ["Q1945649"]
     religionsMostPracticed: ["russianOrthodox"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   chuvashEthnicGroup:
     stringTokens: ["Chuvash", "Virjal", "Anatri"]
     wikidataID: ["Q253410"]
     religionsMostPracticed: ["russianOrthodox", "sunniReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   cintaLargaEthnicGroup:
     stringTokens: ["Cinta Larga"]
     wikidataID: ["Q1092569"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   circassiansEthnicGroup:
     stringTokens: ["Circassians", "Abzakhs", "Adygeans", "Besleneys", "Bzhedugs", "Chemirgoys", "Cherkess", "Kabardians", "Natukhajs", "Shapsugs", "Ubykhs", "Hatuqways"]
     wikidataID: ["Q8556754"]
     religionsMostPracticed: ["sunniReligion", "orthodoxReligion"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "turkishlinguisticGroup", "russianlinguisticGroup"]
   cireboneseEthnicGroup:
     stringTokens: ["Cirebonese"]
     wikidataID: ["Q2608045"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["indonesianlinguisticGroup", "javaneselinguisticGroup"]
   cocopahEthnicGroup:
     stringTokens: ["Cocopah"]
     wikidataID: ["Q165320"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup", "spanishlinguisticGroup"]
   cofanEthnicGroup:
     stringTokens: ["Cofan", "kofani"]
     wikidataID: ["Q966714"]
     religionsMostPracticed: ["christianReligion", "animismReligion"]
+    languagesMostSpoken: ["spanishlinguisticGroup"]
   cookIslandersEthnicGroup:
     stringTokens: ["Cook Islanders"]
     wikidataID: ["Q3287203"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   comancheEthnicGroup:
     stringTokens: ["Comanche"]
     wikidataID: ["Q8391174"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   comoriansEthnicGroup:
     stringTokens: ["Comorians", "Grande Comorians", "Anjouans", "Mohélians", "Maorais", "comoran"]
     wikidataID: ["Q97135168"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "frenchlinguisticGroup"]
   confederadosEthnicGroup:
     stringTokens: ["Confederados"]
     wikidataID: ["Q2347579"]
     religionsMostPracticed: ["protestantReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "portugeselinguisticGroup"]
   coptsEthnicGroup:
     stringTokens: ["Copts"]
     wikidataID: ["Q146744"]
     religionsMostPracticed: ["catholicReligion", "copticOrthodox"]
+    languagesMostSpoken: ["arabiclinguisticGroup", "egyptianArabiclinguisticGroup"]
   cornishEthnicGroup:
     stringTokens: ["Cornish"]
     wikidataID: ["Q222175"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   corsicansEthnicGroup:
     stringTokens: ["Corsicans", "Corsican Americans", "Corsican Puerto Ricans"]
     wikidataID: ["Q509590"]
     religionsMostPracticed: ["catholicReligion", "orthodoxReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup", "italianlinguisticGroup"]
   coushattaEthnicGroup:
     stringTokens: ["Coushatta"]
     wikidataID: ["Q494699"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup", "spanishlinguisticGroup"]
   creeEthnicGroup:
     stringTokens: ["Cree", "James Bay Cree", "Moose Cree", "Swampy Cree", "Woodland Cree", "Papaschase"]
     wikidataID: ["Q9955102"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup"]
   crimeanTatarsEthnicGroup:
     stringTokens: ["Crimean Tatars", "Steppe Tatars", "Mountain Tatars"]
     wikidataID: ["Q117458"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["turkishlinguisticGroup", "russianlinguisticGroup"]
   croatsEthnicGroup:
     stringTokens: ["Croats", "Bunjevci", "Krashovani", "Janjevci", "Šokci", "Bosnian Croats", "Croat Muslims"]
     wikidataID: ["Q167420"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: [""]
   crowEthnicGroup:
     stringTokens: ["Crow", "Apsaalooke"]
     wikidataID: ["Q331789"]
     religionsMostPracticed: ["shamanismReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   czechoslovaksEthnicGroup:
     stringTokens: ["Czechoslovaks"]
     wikidataID: ["Q91075059"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["germanlinguisticGroup"]
   czechsEthnicGroup:
     stringTokens: ["Czechs", "Bohemians", "Chodové"]
     wikidataID: ["Q170217"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: [""]
   dagaabaEthnicGroup:
     stringTokens: ["Dagaaba", "Dagara", "Dagari", "Dagaba", "Dagarti", "LoDagaa", "LoDagaba"]
     wikidataID: ["Q1157179"]
     religionsMostPracticed: ["traditionalAfricanReligion", "muslimReligion", "christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup"]
   dagombasEthnicGroup:
     stringTokens: ["Dagombas"]
     wikidataID: ["Q592821"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "frenchlinguisticGroup"]
   damaraEthnicGroup:
     stringTokens: ["Damara"]
     wikidataID: ["Q1158214"]
     religionsMostPracticed: ["traditionalAfricanReligion", "christianReligion"]
+    languagesMostSpoken: [""]
   danesEthnicGroup:
     stringTokens: ["Danes"]
     wikidataID: ["Q164714"]
     religionsMostPracticed: ["lutheranReligion"]
+    languagesMostSpoken: [""]
   darginsEthnicGroup:
     stringTokens: ["Dargins", "Kaitags", "Kubachis", "Itsaris", "Chirags"]
     wikidataID: ["Q9450026"]
     religionsMostPracticed: ["sunniReligion", "shiaReligion"]
+    languagesMostSpoken: [""]
   dawoodiBohraEthnicGroup:
     stringTokens: ["Dawoodi Bohra"]
     wikidataID: ["Q653227"]
     religionsMostPracticed: ["shiaReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup", "gujuratilinguisticGroup", "hindilinguisticGroup", "urdulinguisticGroup", "arabiclinguisticGroup"]
   deccaniEthnicGroup:
     stringTokens: ["Deccani", "Hyderabadi"]
     wikidataID: []
     religionsMostPracticed: ["sunniReligion", "sufiReligion"]
+    languagesMostSpoken: ["urdulinguisticGroup"]
   dinkaEthnicGroup:
     stringTokens: ["Dinka", "Denkawi", "Jang", "Jango", "Jiang", "Jieng","Jiengge", "Muonyjang", "Monyjang"]
     wikidataID: ["Q212106"]
     religionsMostPracticed: ["christianReligion", "dinkaReligion", "muslimReligion"]
+    languagesMostSpoken: [""]
   dobrujaTatarsEthnicGroup:
     stringTokens: ["Dobruja Tatars", "romanian tartar"]
     wikidataID: ["Q4170775"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: [""]
   dogonEthnicGroup:
     stringTokens: ["Dogon", "Ampari Dogon", "Nyamboli", "Tebul U", "Mombo Dogon", "Escarpment Dogon", "Tommo So", "Jamsai Dogon", "Nanga Dogon", "Yanda Dogon", "Walo", "Beente", "Duleri Dogon", "Pinia", "Bondum Dogon", "Dogul Dogon", "Budu", "Western Plains Dogon", "Toro-tegu Dogon", "Bangande"]
     wikidataID: ["Q215583"]
     religionsMostPracticed: ["traditionalAfricanReligion", "muslimReligion", "christianReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup"]
   dograsEthnicGroup:
     stringTokens: ["Dogras"]
     wikidataID: ["Q111940974"]
     religionsMostPracticed: ["hinduismReligion", "muslimReligion", "sikhismReligion"]
+    languagesMostSpoken: [""]
   dolgansEthnicGroup:
     stringTokens: ["Dolgans"]
     wikidataID: ["Q368879"]
     religionsMostPracticed: ["russianOrthodox", "shamanismReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup"]
   domsEthnicGroup:
     stringTokens: ["Doms", "Garachi"]
     wikidataID: ["Q5291369"]
     religionsMostPracticed: ["hinduismReligion"]
+    languagesMostSpoken: [""]
   dongxiangsEthnicGroup:
     stringTokens: ["Dongxiangs"]
     wikidataID: ["Q750472"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: [""]
   doukhoborsEthnicGroup:
     stringTokens: ["Doukhobors"]
     wikidataID: ["Q1144579"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["russianlinguisticGroup", "englishlinguisticGroup"]
   druzeEthnicGroup:
     stringTokens: ["Druze", "Lebanese Druze", "Syrian Druze", "Israeli Druze", "Jordanian Druze"]
     wikidataID: ["Q163943"]
     religionsMostPracticed: ["druzeReligion"]
+    languagesMostSpoken: ["levantineArabiclinguisticGroup"]
   dublaEthnicGroup:
     stringTokens: ["Dubla"]
     wikidataID: ["Q5310784"]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["gujuratilinguisticGroup"]
   dutchEthnicGroup:
     stringTokens: ["Dutch"]
     wikidataID: ["Q200569"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   dutchAfroCaribbeanEthnicGroup:
     stringTokens: ["Dutch Afro-Caribbean"]
     wikidataID: [""]
     religionsMostPracticed: [""]
+    languagesMostSpoken: ["englishlinguisticGroup"]
   dweeEthnicGroup:
     stringTokens: ["Dwe'e"]
     wikidataID: ["Q28499988"]
     religionsMostPracticed: ["christianReligion"]
+    languagesMostSpoken: [""]
   dyulaEthnicGroup:
     stringTokens: ["Dyula", "Dabakala", "Dioula", "Dyoula", "Dyoura", "Jula"]
     wikidataID: ["Q1711628"]
     religionsMostPracticed: ["sunniReligion"]
+    languagesMostSpoken: ["frenchlinguisticGroup", "englishlinguisticGroup"]
   eastIndianCatholicsEthnicGroup:
     stringTokens: ["East Indian Catholics"]
     wikidataID: ["Q5328642"]
     religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: [""]
   ebiraEthnicGroup:
     stringTokens: ["Ebira", "Igbira", "Biri", "Ebiza", "Igbirra", "Kwato", "Kwotto", "Kwotto-Gara", "Egbira", "Egbura", "Ibara", "Katawa", "Kotokori", 
                    "Igbarra", "Okene"]

@@ -24,7 +24,38 @@ concepts:
      languagesMostSpoken: ["Arabic"]
      religionsMostPracticed: ["Islam"]
      livesIn: [""]
+
+  ## linguisticgroups
+   HassaniyaArabicLinguisticGroup:
+     stringTokens: ["Hassaniya Arabic", "Hassaniyya"]
+     wikidataQnode: ["Q56231"]
+     livesIn: [""]
+     associatedethnicgrouo: ["Arab people"]
+
+   PulaarLinguisticGroup:
+     stringTokens: ["Pulaar", "Fula"]
+     wikidataQnode: ["Q1420205"]
+     livesIn: [""]
+     associatedethnicgroup: ["Fula people", "Toucouleur", "Tukolor"]
+
+   WolofLinguisticGroup:
+     stringTokens: ["Wolof"]
+     wikidataQnode: ["Q34257"]
+     livesIn: [""]
+     associatedethnicgroup: ["Wolof people"]
     
+   SoninkeLinguisticGroup:
+     stringTokens: ["Soninke", "Serakhulle", "Azer", "Maraka"]
+     wikidataQnode: ["Q36660"]
+     livesIn: [""]
+     associatedethnicgrouo: ["Soninke people", "Soninke"]
+
+   ZenagaLinguisticGroup:
+     stringTokens: ["Zenaga"]
+     wikidataQnode: ["Q37005"]
+     livesIn: ["Mederdra"]
+     associatedethnicgrouo: [""]
+
   ## politicalparties
    RFDParty:
      stringTokens: ["Rally of Democratic Forces", "Assembly of Democratic Forces"]

@@ -41,6 +41,13 @@ concepts:
 
    # Ethnic groups with population share less than 1% are omitted.
 
+###linguisticgroups
+  SwatiLinguisticGroup:
+   stringTokens: ["Swati", "siSwati", "Swazi"]
+   wikidataQnode: ["Q34014"]
+   livesIn: 
+   associatedethnicgroup: ["Swati people"]
+
 ###PoliticalParties
   INMParty:
    stringTokens: ["Imbokodvo National Movement", "INM"]

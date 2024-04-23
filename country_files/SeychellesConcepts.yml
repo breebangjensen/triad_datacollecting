@@ -24,6 +24,13 @@ concepts:
      languagesMostSpoken: ["Seychellois Creole", "Mandarin"]
      religionsMostPracticed: ["Roman Catholic"]
      livesIn: 
+
+  ## linguisticgroups
+   SeychelloisCreoleLinguisticGroup:
+     stringTokens: ["Seychellois Creole", "Kreol", "Seselwa Creole French", "Seselwa"]
+     wikidataQnode: ["Q34015"]
+     livesIn: 
+     associatedethnicgroup: ["Seychelles Creole people"]
  
   ## politicalparties
    SNPParty:
