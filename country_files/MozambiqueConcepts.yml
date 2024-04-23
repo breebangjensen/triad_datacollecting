@@ -123,16 +123,6 @@ concepts:
      wikidataQnode: ["Q2964008"]
      livesIn: [""]
      associatedethnicgroup: ["Sena people"]
-  MakhuwaLinguisticGroup:
-     stringTokens: ["Makhuwa", "Emakhuwa", "Macua", "Makua"]
-     wikidataQnode: ["Q33882"]
-     livesIn: ["Zambezi River", "Nampula Province"]
-     associatedethnicgroup: ["Makua people"]
-  TongaLinguisticGroup:
-     stringTokens: [""]
-     wikidataQnode: [""]
-     livesIn: [""]
-     associatedethnicgroup: [""]
   TongaLinguisticGroup:
      stringTokens: ["Tonga", "Gitonga", "Gitonga", "Xitonga"]
      wikidataQnode: ["Q7820988"]
@@ -159,7 +149,7 @@ concepts:
      livesIn: [""]
      associatedethnicgroup: ["Marenje people"]
   MwaniLinguisticGroup:
-     stringTokens: ["Mwani", "Kimwani]
+     stringTokens: ["Mwani", "Kimwani"]
      wikidataQnode: ["Q3042206"]
      livesIn: ["Cabo Delgado Province"]
      associatedethnicgroup: ["Mwani people"]

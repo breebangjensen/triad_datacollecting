@@ -883,11 +883,11 @@ concepts: # key: name of concept for instantiation, value a dict with at least k
     religionsMostPracticed: ["sunniReligion", "shiaReligion", "alawismReligion", "ibadiReligion", "greekOrthodox", "jewishReligion", "druzeReligion", "catholicReligion",
                              "bahaiReligion"]
     languagesMostSpoken: ["arabiclinguisticGroup", "egyptianArabiclinguisticGroup", "levantineArabiclinguisticGroup"]
- aragoneseEthnicGroup:
-   stringTokens: ["aragonese"]
-   wikidataID: ["Q2706746"]
-   religionsMostPracticed: ["catholicReligion"]
-   languagesMostSpoken: ["spanishLinguisticGroup"]
+  aragoneseEthnicGroup:
+    stringTokens: ["aragonese"]
+    wikidataID: ["Q2706746"]
+    religionsMostPracticed: ["catholicReligion"]
+    languagesMostSpoken: ["spanishLinguisticGroup"]
   arameansEthnicGroup:
     stringTokens: ["Arameans"]
     wikidataID: ["Q185461"]

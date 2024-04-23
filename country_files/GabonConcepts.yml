@@ -66,7 +66,7 @@ concepts:
      languagesMostSpoken: ["Mbere languages"]
      livesIn: ["Haut Ogooué"]
 
-    TekeEthnicGroup:
+   TekeEthnicGroup:
      stringTokens: ["Teke", "bateke", "tyo", "tio"]
      wikidataQnode: ["Q811078"]
     
@@ -136,7 +136,7 @@ concepts:
      wikidataQnode: ["Q2945546"]
      yearsActiveasParty: ["1993-present"]
 
-  ADEREParty:
+   ADEREParty:
      stringTokens: ["Republican and Democrat Alliance", "ADERE"]
      wikidataQnode: ["Q5255869"]
      yearsActiveasParty: ["1996-2011"]

@@ -41,7 +41,7 @@ concepts:
 
   ## linguisticgroups
    LambyaLinguisticGroup:
-     stringTokens: ["Lambya", "ChiLambya", "Chilambya]
+     stringTokens: ["Lambya", "ChiLambya", "Chilambya"]
      wikidataQnode: ["Q6481626"]
      livesIn: [""]
      associatedethnicgroup: ["Lambya people"]
