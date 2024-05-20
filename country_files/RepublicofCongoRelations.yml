@@ -27,3 +27,13 @@ relations:
   - (armedNonGovernmentalOrganizedGroup, cocoyearmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, ntsiloulousarmedNonGovernmentalOrganizedGroup)
   - (armedNonGovernmentalOrganizedGroup, flecarmedNonGovernmentalOrganizedGroup)
+  - (LinguisticGroup, kitubaLinguisticGroup)
+  - (LinguisticGroup, lingalaLinguisticGroup)
+  - (LinguisticGroup, kikongoLinguisticGroup)
+  - (LinguisticGroup, tekeLinguisticGroup)
+  - (LinguisticGroup, mboshiLinguisticGroup)
+  - (LinguisticGroup, lariLinguisticGroup)
+  - (LinguisticGroup, bekwilLinguisticGroup)
+  - (LinguisticGroup, kotaLinguisticGroup)
+   
+
