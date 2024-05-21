@@ -149,7 +149,7 @@ concepts:
      wikidataQnode: ["Q4729266"]
      yearsActiveasParty: ["2013-present"]
 
-  PDPParty1:
+  PDPParty:
      stringTokens: ["Peoples Democratic Party"]
      wikidataQnode: ["Q1551163"]  
      yearsActiveasParty: ["1998-present"]
@@ -323,7 +323,7 @@ concepts:
      associatedEthnicGroup: ["Ijaw people"]
      wikidataQnode: ["Q7032757"]
  
-  OPCarmedNonGovernmentalOrganizedGroup1:
+  OPCarmedNonGovernmentalOrganizedGroup:
      stringTokens: ["Oodua Peoples Congress", "Oodua Liberation Movement "]
      associatedEthnicGroup: ["Yoruba people"]
      wikidataQnode: ["Q2043439"]
