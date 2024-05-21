@@ -19,12 +19,12 @@ concepts:
    stringTokens: ["Banda Linda", "Banda Bambari", "Linda", "Banda-Bambari Linda"]
    wikidataQnode: ["Q4854293"]
    livesIn: ["Haut-Mbomou", "Ouaka", "Basse-Kotto"]
-   associatedethnicgroup: ["bandaEthnicroup""]
+   associatedethnicgroup: ["bandaEthnicroup"]
   fulaniLinguisticGroup:
-    stringTokens: ["fulani language", "fula language", "adamawa dialect"]
-    wikidataQnode: ["Q33454"]
-    livesIn: ["Ouham Pendé"]
-    associatedethnicgroup: ["fulaniEthnicroup""]
+   stringTokens: ["fulani language", "fula language", "adamawa dialect"]
+   wikidataQnode: ["Q33454"]
+   livesIn: ["Ouham Pendé"]
+   associatedethnicgroup: ["fulaniEthnicroup"]
   fulaniEthnicGroup:
    stringTokens: ["Fulani", "Fulani people", "Fula", "Peuhlg"]
    wikidataQnode: ["Q202575"]
@@ -81,7 +81,7 @@ concepts:
    stringTokens: ["Zande", "Zande language"]
    wikidataQnode: ["Q35015"]
    livesIn: ["Haute-Mbomou", "Mbomou"]
-   associatedethnicgroup: ["azandeEthnicroup""]
+   associatedethnicgroup: ["azandeEthnicroup"]
   mbatiEthnicGroup:
    stringTokens: ["Mbati", "Mbati people", "Isongo"]
    wikidataQnode: ["Q62997639"]

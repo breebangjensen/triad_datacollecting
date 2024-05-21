@@ -81,51 +81,51 @@ concepts:
       stringTokens: ["Kissi language", "Kissi", "Kisi"]
       wikidataQnode: ["Q35696"]
 ### linguisticgroups
-  SherbroLinguisticGroup: 
-   stringTokens: ["Sherbro", "Southern Bullom", "Shiba", "Amampa", "Mampa", "Mampwa"]
-   wikidataQnode: ["Q36339"]
-   livesIn: ["Sherbro Island"]
-   associatedethnicgroup: ["sherbroEthnicGroup"]
-  BullomSoLinguisticGroup: 
-   stringTokens: ["Bullom So", "Mmani", "Mani", "Mandingi"]
-   wikidataQnode: ["Q35061"]
-   livesIn: ["Samu region", "Kambia District"]
-   associatedethnicgroup: [""]
-  KurankoLinguisticGroup: 
-   stringTokens: ["Kuranko"]
-   wikidataQnode: ["Q3198896"]
-   livesIn: [""]
-   associatedethnicgroup: ["kurankoEthnicGroup"]
-  KonoLinguisticGroup: 
-   stringTokens: ["Kono"]
-   wikidataQnode: ["Q35675"]
-   livesIn: ["Kono District"]
-   associatedethnicgroup: ["konoEthnicGroup"]
-  KrioLinguisticGroup: 
-   stringTokens: ["Krio"]
-   wikidataQnode: ["Q35744"]
-   livesIn: [""]
-   associatedethnicgroup: ["krioEthnicGroup"]
-  LimbaLinguisticGroup: 
-   stringTokens: ["Limba"]
-   wikidataQnode: ["Q35825"]
-   livesIn: ["Little Scarcies River", "Bombali District", "northeast Kambia District", "Makeni"]
-   associatedethnicgroup: ["limbaEthnicGroup"]
-  LokoLinguisticGroup: 
-   stringTokens: ["Loko"]
-   wikidataQnode: ["Q3914912"]
-   livesIn: ["Northern Sierra Leone"]
-   associatedethnicgroup: ["lokoEthnicGroup"]
-  MendeLinguisticGroup: 
-   stringTokens: ["Mende"]
-   wikidataQnode: ["Q1478672"]
-   livesIn: ["South central Sierra Leone"]
-   associatedethnicgroup: ["mendeEthnicGroup"]
-  ThemneLinguisticGroup: 
-   stringTokens: ["Themne", "Temne"]
-   wikidataQnode: ["Q36613"]
-   livesIn: ["Northern Sierra Leone"]
-   associatedethnicgroup: ["Temne people"]
+    SherbroLinguisticGroup:
+      stringTokens: ["Sherbro", "Southern Bullom", "Shiba", "Amampa", "Mampa", "Mampwa"]
+      wikidataQnode: ["Q36339"]
+      livesIn: ["Sherbro Island"]
+      associatedethnicgroup: ["sherbroEthnicGroup"]
+    BullomSoLinguisticGroup:
+      stringTokens: ["Bullom So", "Mmani", "Mani", "Mandingi"]
+      wikidataQnode: ["Q35061"]
+      livesIn: ["Samu region", "Kambia District"]
+      associatedethnicgroup: [""]
+    KurankoLinguisticGroup:
+      stringTokens: ["Kuranko"]
+      wikidataQnode: ["Q3198896"]
+      livesIn: [""]
+      associatedethnicgroup: ["kurankoEthnicGroup"]
+    KonoLinguisticGroup:
+      stringTokens: ["Kono"]
+      wikidataQnode: ["Q35675"]
+      livesIn: ["Kono District"]
+      associatedethnicgroup: ["konoEthnicGroup"]
+    KrioLinguisticGroup:
+      stringTokens: ["Krio"]
+      wikidataQnode: ["Q35744"]
+      livesIn: [""]
+      associatedethnicgroup: ["krioEthnicGroup"]
+    LimbaLinguisticGroup:
+      stringTokens: ["Limba"]
+      wikidataQnode: ["Q35825"]
+      livesIn: ["Little Scarcies River", "Bombali District", "northeast Kambia District", "Makeni"]
+      associatedethnicgroup: ["limbaEthnicGroup"]
+    LokoLinguisticGroup:
+      stringTokens: ["Loko"]
+      wikidataQnode: ["Q3914912"]
+      livesIn: ["Northern Sierra Leone"]
+      associatedethnicgroup: ["lokoEthnicGroup"]
+    MendeLinguisticGroup:
+      stringTokens: ["Mende"]
+      wikidataQnode: ["Q1478672"]
+      livesIn: ["South central Sierra Leone"]
+      associatedethnicgroup: ["mendeEthnicGroup"]
+    ThemneLinguisticGroup:
+      stringTokens: ["Themne", "Temne"]
+      wikidataQnode: ["Q36613"]
+      livesIn: ["Northern Sierra Leone"]
+      associatedethnicgroup: ["Temne people"]
 ### Political parties
     slppParty:
       stringTokens: ["Sierra Leone People's Party", "SLPP"]

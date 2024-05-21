@@ -77,7 +77,7 @@ concepts:
      associatedethnicgroup: ["Ngumba people", "Kwasio people", "Gyele people", "Mabi people"]
 
    IyasaLinguisticGroup:
-     stringTokens: ["Iyasa", "Yasa]
+     stringTokens: ["Iyasa", "Yasa"]
      wikidataQnode: ["Q36899"]
      livesIn: [""]
      associatedethnicgroup: ["Yasa people", "Pygmies people"]

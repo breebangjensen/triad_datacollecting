@@ -142,7 +142,7 @@ concepts:
      livesIn: ["Mpumalanga", "Limpopo", "Gauteng", "North West"]
      associatedethnicgroup: ["NdebeleEthnicGroup"]
   NorthernSothoLinguisticGroup:
-     stringTokens: ["Northern Sotho", "Sepedi]
+     stringTokens: ["Northern Sotho", "Sepedi"]
      wikidataQnode: [""]
      livesIn: ["Gauteng", "Limpopo", "Mpumalanga"]
      associatedethnicgroup: ["Mohlala people", "MaPulana people", "PediEthnicGroup", "Lobedu", "Pulana", "Tlôkwa", "XhosaEthnicGroup", "ZuluEthnicGroup", "SothoEthnicGroup", "TswanaEthnicGroup"]

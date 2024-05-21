@@ -76,7 +76,7 @@ concepts:
      livesIn: ["Niger", "Kaduna", "Federal Capital Territory", "Nasarawa", "Kogi"]
 
 ## Linguistic groups
-   HausaLinguisticGroup:
+  HausaLinguisticGroup:
      stringTokens: ["Ha", "Hausa Language"]
      wikidataQnode: ["Q56475"]
      livesIn: ["Bauchi", "Borno", "Jigawa", "Kaduna", "Kano", "Kastina", "Kebbi", "Niger", "Taraba", "Sokoto", "Zamfara"]
@@ -88,13 +88,13 @@ concepts:
      livesIn: ["Kwara", "Lagos", "Ogun", "Ondo", "Oyo", "Osun", "Ekiti", "Kogi", "Edo"]
      associatedethnicgroup: ["YorubaEthnicGroup"]
 
-   IgboLinguisticGroup:
+  IgboLinguisticGroup:
      stringTokens: ["Ig", "Igbo Language"]
      wikidataQnode: ["Q33578"]
      livesIn: ["Abia", "Anambra", "Delta", "Ebonyi", "Enugu", "Imo", "Rivers"]
      associatedethnicgroup: ["IgboEthnicGroup"]
 
-   FulaLinguisticGroup:
+  FulaLinguisticGroup:
      stringTokens: ["Fula Language", "Fulah", "ff", "Fulani", "Adamawa dialect", "Ful language", "Fulah language", "Fulani language", "Fulbe language adlam",
                     "Fulde language", "Fulfulde language", "Bagirmi dialect", "Western Niger dialect", "Fulfuldedialect", "Fulfulde dialect"]
      wikidataQnode: ["Q33454"]

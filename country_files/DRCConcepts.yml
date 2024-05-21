@@ -125,7 +125,7 @@ concepts:
     wikidataQnode: ["Q3046889"]
     livesIn: ["orientale", "equateur", "mongala"]
     associatedethnicgroup: [""]
-   ngbandiLinguisticGroup:
+  ngbandiLinguisticGroup:
     stringTokens: ["ngbandi"]
     wikidataQnode: ["Q36439"]
     livesIn: [""]
@@ -140,153 +140,153 @@ concepts:
     wikidataQnode: ["Q56327"]
     livesIn: ["orientale"]
     associatedethnicgroup: [""]
- yombeLinguisticGroup:
+  yombeLinguisticGroup:
     stringTokens: ["yombe", "kiyombe"]
     wikidataQnode: ["Q10961975"]
     livesIn: ["kongo central"]
     associatedethnicgroup: [""]
- nandeLinguisticGroup:
+  nandeLinguisticGroup:
     stringTokens: ["nande"]
     wikidataQnode: ["Q3196953"]
     livesIn: ["north kivu", "orientale"]
     associatedethnicgroup: ["nandeEthnicGroup"]
- ngbakaLinguisticGroup:
+  ngbakaLinguisticGroup:
     stringTokens: ["ngbaka"]
     wikidataQnode: ["Q1165960"]
     livesIn: [""]
     associatedethnicgroup: [""]
- zandeLinguisticGroup:
+  zandeLinguisticGroup:
     stringTokens: ["zande"]
     wikidataQnode: ["Q35015"]
     livesIn: ["bas-uele", "haut-uele"]
     associatedethnicgroup: ["zandeEthnicGroup"]
- lugbaraLinguisticGroup:
+  lugbaraLinguisticGroup:
     stringTokens: ["lugbara", "lugbarati"]
     wikidataQnode: ["Q3272737"]
     livesIn: ["ituri"]
     associatedethnicgroup: [""]
- kifuliiruLinguisticGroup:
+  kifuliiruLinguisticGroup:
     stringTokens: ["kifuliiru", "Fuliiru", "Kifulero"]
     wikidataQnode: ["Q7166821"]
     livesIn: ["south kivu"]
     associatedethnicgroup: [""]
- komoLinguisticGroup:
+  komoLinguisticGroup:
     stringTokens: ["komo"]
     wikidataQnode: ["Q56681"]
     livesIn: ["south kivu"]
     associatedethnicgroup: [""]
 ##political parties  ##does this time coding work
-  PPRDParty: 
-   stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
-   yearsActiveasParty: ["2002-2019"]
-  FONUSParty: 
-   stringTokens: ["Innovative Forces for Union and Solidarity", "FONUS", "Forces Novatrices pour l'Union et la Solidarité"]
-   yearsActiveasParty: []
+  PPRDParty:
+    stringTokens: ["People's Party for Reconstruction and Democracy", "PPRD"]
+    yearsActiveasParty: ["2002-2019"]
+  FONUSParty:
+    stringTokens: ["Innovative Forces for Union and Solidarity", "FONUS", "Forces Novatrices pour l'Union et la Solidarité"]
+    yearsActiveasParty: []
   UDPSParty:
-   stringTokens: ["Union for Democracy and Social Progress", "UDPS"]
-   yearsActiveasParty: ["1982-Present"]
+    stringTokens: ["Union for Democracy and Social Progress", "UDPS"]
+    yearsActiveasParty: ["1982-Present"]
   MLCParty:
-   stringTokens: ["Movement for the Liberation of the Congo", "MLC"]
-   yearsActiveasParty: ["1998-Present"]
+    stringTokens: ["Movement for the Liberation of the Congo", "MLC"]
+    yearsActiveasParty: ["1998-Present"]
   UNCParty:
-   stringTokens: ["Union for the Congolese Nation", "UNC"]
-   yearsActiveasParty: ["2010-Present"]
+    stringTokens: ["Union for the Congolese Nation", "UNC"]
+    yearsActiveasParty: ["2010-Present"]
   PDSCParty:
-   stringTokens: ["Democratic Social Christian Party", "PDSC"]
-   yearsActiveasParty: ["1990-2010"]
+    stringTokens: ["Democratic Social Christian Party", "PDSC"]
+    yearsActiveasParty: ["1990-2010"]
   PCTParty: 
-   stringTokens: ["Congolese Party of Labour", "PCT", "Popular Movement of the Revolution", "MPR"]
-   yearsActiveasParty: ["1965-1997"]
+    stringTokens: ["Congolese Party of Labour", "PCT", "Popular Movement of the Revolution", "MPR"]
+    yearsActiveasParty: ["1965-1997"]
   UJSCParty: 
-   stringTokens: ["UJSC", "Congolese Socialist Youth Union", "Union de la jeunesse socialiste congolaise"] #youth-wing of PCT
-   yearsActiveasParty: ["1969-1992"]
+    stringTokens: ["UJSC", "Congolese Socialist Youth Union", "Union de la jeunesse socialiste congolaise"] #youth-wing of PCT
+    yearsActiveasParty: ["1969-1992"]
   PALUParty: 
-   stringTokens: ["Unified Lumumbist Party", "PALU", "Parti Lumumbiste Unifié"]
-   yearsActiveasParty: ["1964-Present"]
+    stringTokens: ["Unified Lumumbist Party", "PALU", "Parti Lumumbiste Unifié"]
+    yearsActiveasParty: ["1964-Present"]
   RCDParty: 
-   stringTokens: ["Rally for Congolese Democracy", "RCD"]
-   yearsActiveasParty: ["2002-Present"]
+    stringTokens: ["Rally for Congolese Democracy", "RCD"]
+    yearsActiveasParty: ["2002-Present"]
 ##armed groups
   ADFarmedNonGovernmentalOrganizedGroup:   ##should this go in Uganda instead
-   stringTokens: ["Allied Democratic Forces", "ADF", "ADF-Nalu", "Allied Democratic Forces- National Army for the Liberation of Uganda"]
-   associatedReligion: ["Islam"]
-   regionsMostActive: ["North Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1996-Present"]
+    stringTokens: ["Allied Democratic Forces", "ADF", "ADF-Nalu", "Allied Democratic Forces- National Army for the Liberation of Uganda"]
+    associatedReligion: ["Islam"]
+    regionsMostActive: ["North Kivu"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1996-Present"]
   CNDParmedNonGovernmentalOrganizedGroup:   
-   stringTokens: ["CNDP", "National Congress for the Defence of the People", "Congrès national pour la défense du peuple"]
-   regionsMostActive: ["North Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006-2009"]
+    stringTokens: ["CNDP", "National Congress for the Defence of the People", "Congrès national pour la défense du peuple"]
+    regionsMostActive: ["North Kivu"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006-2009"]
   FDLRarmedNonGovernmentalOrganizedGroup:   #should this go in Rwanda instead
-   stringTokens: ["FDLR", "Democratic Forces for the Liberation of Rwanda"]
-   regionsMostActive: ["North Kivu", "South Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-Present"]
+    stringTokens: ["FDLR", "Democratic Forces for the Liberation of Rwanda"]
+    regionsMostActive: ["North Kivu", "South Kivu"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2000-Present"]
   M23armedNonGovernmentalOrganizedGroup:  ##should this go in Rwanda instead
-   stringTokens: ["M23", "Congolese Revolutionary Army", "March 23 Movement"]
-   associatedEthnicGroup: ["Tutsi"]
-   regionsMostActive: ["North Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
+    stringTokens: ["M23", "Congolese Revolutionary Army", "March 23 Movement"]
+    associatedEthnicGroup: ["Tutsi"]
+    regionsMostActive: ["North Kivu"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
   MaiMaiarmedNonGovernmentalOrganizedGroup: 
-   stringTokens: ["Mai-Mai", "Mayi-Mayi", "Mai Mai", "Mayi Mayi"]
-   regionsMostActive: ["North Kivu", "South Kivu", "Maniema", "Katanga"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990-Present"]
+    stringTokens: ["Mai-Mai", "Mayi-Mayi", "Mai Mai", "Mayi Mayi"]
+    regionsMostActive: ["North Kivu", "South Kivu", "Maniema", "Katanga"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1990-Present"]
   LRAarmedNonGovernmentalOrganizedGroup:  ##should this go in Rwanda instead
-   stringTokens: ["LRA", "Lord's Resistance Army"]
-   regionsMostActive: ["Haut-Uele", "Bas-Uele"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
+    stringTokens: ["LRA", "Lord's Resistance Army"]
+    regionsMostActive: ["Haut-Uele", "Bas-Uele"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
   ARCarmedNonGovernmentalOrganizedGroup: 
-   stringTokens: ["Congolese Revolutionary Army", "ARC"]
-   regionsMostActive: ["North Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
+    stringTokens: ["Congolese Revolutionary Army", "ARC"]
+    regionsMostActive: ["North Kivu"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2012-2013"]
   RaiaMutombokiarmedNonGovernmentalOrganizedGroup: ##subset of Mai Mai?
-   stringTokens: ["Raia Mutomboki", "Raiya Mutomboki"]
-   regionsMostActive: ["South Kivu", "Maniema"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
+    stringTokens: ["Raia Mutomboki", "Raiya Mutomboki"]
+    regionsMostActive: ["South Kivu", "Maniema"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-Present"]
   NyaturaarmedNonGovernmentalOrganizedGroup: 
-   stringTokens: ["Nyatura", "Mongols", "MAGRIV", "Mutuelle agricole des Virunga", "Nyatura-APRDC"]
-   associatedEthnicGroup: ["hutuEthnicGroup"]  ##hutuethnicgroup otherwise not represented in DRC knowledge graph
-   regionsMostActive: ["North Kivu"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2010-Present"]
+    stringTokens: ["Nyatura", "Mongols", "MAGRIV", "Mutuelle agricole des Virunga", "Nyatura-APRDC"]
+    associatedEthnicGroup: ["hutuEthnicGroup"]  ##hutuethnicgroup otherwise not represented in DRC knowledge graph
+    regionsMostActive: ["North Kivu"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2010-Present"]
   PUSICarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["Parti pour l'unité et la sauvegarde de l'intégrité du Congo", "PUSIC", "Party for Unity and Safeguarding of the Integrity of Congo"] #split from UPC
-   regionsMostActive: ["Ituri"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2006"]
+    stringTokens: ["Parti pour l'unité et la sauvegarde de l'intégrité du Congo", "PUSIC", "Party for Unity and Safeguarding of the Integrity of Congo"] #split from UPC
+    regionsMostActive: ["Ituri"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2006"]
   KamwinaNsapuarmedNonGovernmentalOrganizedGroup: 
-   stringTokens: ["Kamwina Nsapu"]
-   associatedEthnicGroup: ["lubaEthnicGroup"]
-   regionsMostActive: ["Kasai"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2016-2019"]
+    stringTokens: ["Kamwina Nsapu"]
+    associatedEthnicGroup: ["lubaEthnicGroup"]
+    regionsMostActive: ["Kasai"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2016-2019"]
   MLCarmedNonGovernmentalOrganizedGroup: 
-   stringTokens: ["MLC", "Movement for the Liberation of the Congo"]
-   regionsMostActive: ["Equateur"]
+    stringTokens: ["MLC", "Movement for the Liberation of the Congo"]
+    regionsMostActive: ["Equateur"]
   RCDarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["RCD", "Rally for Congolese Democracy", "Congolese Rally for Democracy"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1998-2004"]
+    stringTokens: ["RCD", "Rally for Congolese Democracy", "Congolese Rally for Democracy"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1998-2004"]
   RCDMLarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["RCD-Mouvement de Libération", "RCD-Movement for Liberation", "RCD-ML"] #pro-Uganda wing of the RCD
-   regionsMostActive: ["Kisangani"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
+    stringTokens: ["RCD-Mouvement de Libération", "RCD-Movement for Liberation", "RCD-ML"] #pro-Uganda wing of the RCD
+    regionsMostActive: ["Kisangani"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
   RCDGarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["RCD-G", "RCD/G"] #pro-Rwanda wing of the RCD
-   regionsMostActive: ["Goma"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
+    stringTokens: ["RCD-G", "RCD/G"] #pro-Rwanda wing of the RCD
+    regionsMostActive: ["Goma"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["1999-2004"]
   FNIarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["FNI", "Nationalist and Integrationist Front", "Front des Nationalistes et Intégrationnistes"]
-   regionsMostActive: ["Ituri"]
-   associatedEthnicGroup: ["lenduEthnicGroup"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-2007"]
+    stringTokens: ["FNI", "Nationalist and Integrationist Front", "Front des Nationalistes et Intégrationnistes"]
+    regionsMostActive: ["Ituri"]
+    associatedEthnicGroup: ["lenduEthnicGroup"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2005-2007"]
   FAPCarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["FAPC", "Armed Forces of the Congolese People", "Forces armées du Peuple congolais"]
-   regionsMostActive: ["Ituri"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2005"]
+    stringTokens: ["FAPC", "Armed Forces of the Congolese People", "Forces armées du Peuple congolais"]
+    regionsMostActive: ["Ituri"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2003-2005"]
   UPCarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["UPC", "Union of Congolese Patriots", "Union des Patriotes congolais"]
-   regionsMostActive: ["Ituri"]
-   associatedEthnicGroup: ["hemaEthnicGroup"]
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2001-present"]
+    stringTokens: ["UPC", "Union of Congolese Patriots", "Union des Patriotes congolais"]
+    regionsMostActive: ["Ituri"]
+    associatedEthnicGroup: ["hemaEthnicGroup"]
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2001-present"]
   APCLSarmedNonGovernmentalOrganizedGroup:
-   stringTokens: ["APCLS", "Alliance of Patriots for a Free and Sovereign Congo", "Alliance des patriotes pour un Congo libre et souverain"] 
-   regionsMostActive: ["North Kivu"] # mai-mai group, anti-Tutsi
-   yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006–present"]
+    stringTokens: ["APCLS", "Alliance of Patriots for a Free and Sovereign Congo", "Alliance des patriotes pour un Congo libre et souverain"]
+    regionsMostActive: ["North Kivu"] # mai-mai group, anti-Tutsi
+    yearsActiveasarmedNonGovernmentalOrganizedGroup: ["2006–present"]
 
   
   

@@ -168,7 +168,7 @@ concepts:
    associatedethnicgroup: ["Lobi people"]
   LyéléLinguisticGroup:
    stringTokens: ["Lyélé", "Lyele"]
-   wikidataQnode: ["Q3089032"]]
+   wikidataQnode: ["Q3089032"]
    livesIn: ["Sanguié Province"]
    associatedethnicgroup: [""]
   MarkaLinguisticGroup:

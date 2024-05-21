@@ -156,7 +156,7 @@ concepts:
      associatedethnicgroup: [""]
 
    PularLinguisticGroup:
-     stringTokens: ["Pular, "pulaar""]
+     stringTokens: ["Pular", "pulaar"]
      wikidataQnode: ["Q3915357"]
      livesIn: ["Fouta Djallon"]
      associatedethnicgroup: ["FulaEthnicGroup"]

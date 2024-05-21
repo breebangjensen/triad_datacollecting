@@ -1,22 +1,22 @@
 concepts:
   ethiopiaSecurityForces:
-    stringTokens: ["Coordinating Committee of the Armed Forces, Police and Territorial Army", "Provisional Military Administrative Council", "PMAC", "Derg", "Dergue", "Revolutionary Army", "Ethiopian National Defense Force", "ENDF", "Regional Defense Forces", "National Intelligence and Security Services", "NISS", "Ethiopian Federal Police", "EFP"]
+   stringTokens: ["Coordinating Committee of the Armed Forces, Police and Territorial Army", "Provisional Military Administrative Council", "PMAC", "Derg", "Dergue", "Revolutionary Army", "Ethiopian National Defense Force", "ENDF", "Regional Defense Forces", "National Intelligence and Security Services", "NISS", "Ethiopian Federal Police", "EFP"]
 
   ##ethnicgroups
   ##Notes: for regions I am doing more than 5% and for religions more than 5% if no % mentioned I only list religions mentioned as practiced by the group
   oromoEthnicGroup:
-    stringTokens: ["Oromo", "Oromoo", "Galla people", "Galla", "Gallas", "Gala", "Gallinyas", "Ilma Orma", "Orma","Oromota", "Borana Oromo", "Booranaa", "Barentu", "Barentoo", "Baraytuma"] #Borana Oromo (and derivatives) and Barentu (and derivatives) are the two subdivisions of the group
-    wikidataQnode: ["Q318674"]
-    languagesMostSpoken: ["Oromo language", "Amharic"] ##also known as Afaan Oromoo and Galla although use of the last is often considered pejorative
-    religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestant", "Catholic", "Waaqeffanna"]
-    livesIn: ["Oromia Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Sidama Region"]
+   stringTokens: ["Oromo", "Oromoo", "Galla people", "Galla", "Gallas", "Gala", "Gallinyas", "Ilma Orma", "Orma","Oromota", "Borana Oromo", "Booranaa", "Barentu", "Barentoo", "Baraytuma"] #Borana Oromo (and derivatives) and Barentu (and derivatives) are the two subdivisions of the group
+   wikidataQnode: ["Q318674"]
+   languagesMostSpoken: ["Oromo language", "Amharic"] ##also known as Afaan Oromoo and Galla although use of the last is often considered pejorative
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam", "Protestant", "Catholic", "Waaqeffanna"]
+   livesIn: ["Oromia Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Sidama Region"]
   
   amharaEthnicGroup:
-    stringTokens: ["Amhara", "Amanarinya", "Amarinya", "Amarinnya", "Amharinya", "Kuchumba", "Shewa","Shoan", "Shuan"] #Shewa and derivatives is usally used for the Amhara who live in the Shewa region (no longer a official region), or as a shorthand for the "ruling class"
-    wikidataQnode: ["Q464237"]
-    languagesMostSpoken: ["Amharic"] ##also known as Amarinya, Kuchumba, Amharinya and Amarigna
-    religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam"]
-    livesIn: ["Amhara Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Oromia Region", "Sidama Region"]
+   stringTokens: ["Amhara", "Amanarinya", "Amarinya", "Amarinnya", "Amharinya", "Kuchumba", "Shewa","Shoan", "Shuan"] #Shewa and derivatives is usally used for the Amhara who live in the Shewa region (no longer a official region), or as a shorthand for the "ruling class"
+   wikidataQnode: ["Q464237"]
+   languagesMostSpoken: ["Amharic"] ##also known as Amarinya, Kuchumba, Amharinya and Amarigna
+   religionsMostPracticed: ["Oriental Christian Orthodox", "Sunni Islam"]
+   livesIn: ["Amhara Region", "Addis Ababa Region", "Benishangul-Gumuz Region", "Dire Dawa Region", "Harari Region", "Oromia Region", "Sidama Region"]
   
   somaliEthnicGroup:
    stringTokens: ["Somali", "Soomaali"]
@@ -146,86 +146,86 @@ concepts:
    livesIn: ["oromia"]
    associatedethnicgroup: ["oromoEthnicGroup"]
   somaliLinguisticGroup: 
-   stringTokens: ["Somali"}
+   stringTokens: ["Somali"]
    wikidataQnode: ["Q13275"]
    livesIn: ["ogaden", "hawd"]
    associatedethnicgroup: ["somaliEthnicGroup"]
   tigrinyaLinguisticGroup: 
-   stringTokens: ["Tigrinya", "Tigrinja", "tigringa"}
+   stringTokens: ["Tigrinya", "Tigrinja", "tigringa"]
    wikidataQnode: ["Q34124"]
    livesIn: []
    associatedethnicgroup: ["tigrinyaEthnicGroup"]
- sidamaLinguisticGroup: 
-   stringTokens: ["sidama", "sidamo", "sid"}
+  sidamaLinguisticGroup:
+   stringTokens: ["sidama", "sidamo", "sid"]
    wikidataQnode: ["Q33786"]
    livesIn: ["oromia"]
    associatedethnicgroup: ["sidamaEthnicGroup"]
- wolayttaLinguisticGroup: 
-   stringTokens: ["Wolaytta", "Wolaitta", "Wolaita", "Wal"}
+  wolayttaLinguisticGroup:
+   stringTokens: ["Wolaytta", "Wolaitta", "Wolaita", "Wal"]
    wikidataQnode: ["Q36943"]
    livesIn: ["Wolayita"]
    associatedethnicgroup: ["welaytaEthnicGroup"]
- sebatbetgurageLinguisticGroup: 
-   stringTokens: ["sebat bet gurage", "gurage"}
+  sebatbetgurageLinguisticGroup:
+   stringTokens: ["sebat bet gurage", "gurage"]
    wikidataQnode: ["Q2707343"]
    livesIn: ["gurage"]
    associatedethnicgroup: ["gurageEthnicGroup"]
- afarLinguisticGroup: 
-   stringTokens: ["Afar", "Adal", "’Afar Af", "Afaraf", "Qafar", "aa"}
+  afarLinguisticGroup:
+   stringTokens: ["Afar", "Adal", "’Afar Af", "Afaraf", "Qafar", "aa"]
    wikidataQnode: ["Q27811"]
    livesIn: ["afar", "amhara", "somali"]
    associatedethnicgroup: ["afarEthnicGroup"]
- naraLinguisticGroup: 
-   stringTokens: ["nara"}
+  naraLinguisticGroup:
+   stringTokens: ["nara"]
    wikidataQnode: ["Q36179"]
    livesIn: []
    associatedethnicgroup: ["naraEthnicGroup"]
- kunamaLinguisticGroup: 
-   stringTokens: ["kunama"}
+  kunamaLinguisticGroup:
+   stringTokens: ["kunama"]
    wikidataQnode: ["Q36041"]
    livesIn: []
    associatedethnicgroup: ["kunamaEthnicGroup"]
- bejaLinguisticGroup: 
+  bejaLinguisticGroup:
    stringTokens: ["Bedawiyet", "Ti-Bedauye", "Ti-Bedaauye", "Tu-Bedawie", "To-Bedawye", "Bedja", "Bedawiye", "Bedawi",  "Bedwi", "Bedya", "Bedauye", "Badāwīyä", "Bidhaawyeet", "Tu-Bdhaawi", "bej", "beja"]
    wikidataQnode: ["Q33025"]
    livesIn: []
    associatedethnicgroup: ["bejaEthnicGroup"]
- tigreLinguisticGroup: 
+  tigreLinguisticGroup:
    stringTokens: ["tigre"]
    wikidataQnode: ["Q34129"]
    livesIn: []
    associatedethnicgroup: ["tigreEthnicGroup"] 
- bilenLinguisticGroup: 
+  bilenLinguisticGroup:
    stringTokens: ["bilen", "Bilin", "blin", "byn"]
    wikidataQnode: ["Q56491"]
    livesIn: []
    associatedethnicgroup: ["bilenEthnicGroup"]
- sahoLinguisticGroup: 
+  sahoLinguisticGroup:
    stringTokens: ["saho"]
    wikidataQnode: ["Q36353"]
    livesIn: ["afar", "tigray"]
    associatedethnicgroup: ["sahoEthnicGroup"]
-  kaffichoLinguisticGroup: 
+  kaffichoLinguisticGroup:
    stringTokens: ["kafa", "kefa", "kaffa"]
    wikidataQnode: ["Q35481"]
    livesIn: ["oromia"]
    associatedethnicgroup: ["kafaEthnicGroup"]
-  silteLinguisticGroup: 
+  silteLinguisticGroup:
    stringTokens: ["Silt'e", "silte", "Selti"]
    wikidataQnode: ["Q33880"]
    livesIn: ["oromia"]
    associatedethnicgroup: ["silteEthnicGroup"]
-  gedeoLinguisticGroup: 
+  gedeoLinguisticGroup:
    stringTokens: ["gedeo"]
    wikidataQnode: ["Q56622"]
    livesIn: ["oromia"]
    associatedethnicgroup: ["gedeoEthnicGroup"]
- gamogofadawroLinguisticGroup: 
+  gamogofadawroLinguisticGroup:
    stringTokens: ["Gamo-Gofa-Dawro"]
    wikidataQnode: ["Q56323"]
    livesIn: ["Southern Nations, Nationalities, and Peoples' Region"]   ##Note this region no longer exists as of summer 2023, should now be Sidama Region, Southwest Ethiopia Region, South Ethiopia Regional State and Central Ethiopia Regional State, but unclear which of these is appropriate for this group.
    associatedethnicgroup: ["gamoEthnicGroup"]
- hadiyyaLinguisticGroup: 
+  hadiyyaLinguisticGroup:
    stringTokens: ["hadiyya"]
    wikidataQnode: ["Q56613"]
    livesIn: ["oromia"]

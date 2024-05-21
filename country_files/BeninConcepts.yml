@@ -209,7 +209,7 @@ concepts:
      associatedethnicgroup: [""]
 
     BokoLinguisticGroup:
-     stringTokens: ["Boko", "Boo", "Busanci" "Busanchi", "Bussanci", "Bussanchi"]
+     stringTokens: ["Boko", "Boo", "Busanci", "Busanchi", "Bussanci", "Bussanchi"]
      wikidataQnode: ["Q34983"]
      livesIn: [""]
      associatedethnicgroup: ["Bissa people"]
@@ -331,7 +331,7 @@ concepts:
 
     amdpParty:
      stringTokens: ["African Movement for Development and Progress"]
-     wikidataQnode:  ["Q4689865)"]
+     wikidataQnode:  ["Q4689865"]
 
     uddParty:
      stringTokens: ["Dahomeyan Democratic Union"]

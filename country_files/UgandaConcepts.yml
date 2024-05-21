@@ -178,7 +178,7 @@ concepts:
    stringTokens: ["Masaba", "Gisu", "Masaaba"] 
    wikidataQnode: ["Q3740241"]  
    livesIn: ["Eastern Uganda", "south of the Kupsabiny", "Bugisu Province"]
-   associatedethnicgroup: ["BagisuEthnicGroup", "Luhya]
+   associatedethnicgroup: ["BagisuEthnicGroup", "Luhya"]
   NyoleLinguisticGroup:
    stringTokens: ["Nyole", "LoNyole", "Lunyole", "Nyuli"]  
    wikidataQnode: ["Q3739448"]  

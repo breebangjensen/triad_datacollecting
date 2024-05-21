@@ -104,12 +104,12 @@ concepts:
       wikidataQnode: ["Q3217917"]
       livesIn: ["bouenza", "pool", "brazzaville"]
       associatedethnicgroup: ["lariEthnicGroup"]
-     bekwilLinguisticGroup:
+    bekwilLinguisticGroup:
       stringTokens: ["bekwil", "bekwel"]
       wikidataQnode: ["Q34950"]
       livesIn: ["sangha"]
       associatedethnicgroup: [""]
-     kotaLinguisticGroup:
+    kotaLinguisticGroup:
       stringTokens: ["kota"]
       wikidataQnode: ["Q35607"]
       livesIn: ["sangha", "cuvette-ouest", "cuvette"]
@@ -118,77 +118,77 @@ concepts:
   ## politicalparties
     
     caddParty:
-     stringTokens: ["Action Committee for the Defense of Democracy – Youth Movement", "CADD-MJ", "Comité d'action pour la défense de la démocratie - Mouvement de jeunesse"]
-     yearsActiveasArmed: ["1993-2013"]
-     wikidataQnode:  ["Q4677088"] #afflicated with PCT
-    
+      stringTokens: ["Action Committee for the Defense of Democracy – Youth Movement", "CADD-MJ", "Comité d'action pour la défense de la démocratie - Mouvement de jeunesse"]
+      yearsActiveasArmed: ["1993-2013"]
+      wikidataQnode:  ["Q4677088"] #afflicated with PCT
+     
     upadsParty:
-     stringTokens: ["Pan-African Union for Social Democracy"]
-     wikidataQnode:  ["Q3550401"]
-  
+      stringTokens: ["Pan-African Union for Social Democracy"]
+      wikidataQnode:  ["Q3550401"]
+   
     uddiaParty:
-     stringTokens: ["Democratic Union for the Defense of African Interests"]
-     wikidataQnode:  ["Q1377588"]
-  
+      stringTokens: ["Democratic Union for the Defense of African Interests"]
+      wikidataQnode:  ["Q1377588"]
+   
     pctParty:
-     stringTokens: ["Congolese Party of Labour", "Congolese Labor Party", "PCT"]
-     wikidataQnode:  ["Q1785816"]
-  
+      stringTokens: ["Congolese Party of Labour", "Congolese Labor Party", "PCT"]
+      wikidataQnode:  ["Q1785816"]
+   
     mcddiParty:
-     stringTokens: ["Congolese Movement for Democracy and Integral Development"]
-     wikidataQnode:  ["Q3326534"]
-  
+      stringTokens: ["Congolese Movement for Democracy and Integral Development"]
+      wikidataQnode:  ["Q3326534"]
+   
     mnrParty:
-     stringTokens: ["National Movement of the Revolution"]
-     wikidataQnode:  ["Q6974417"]
-  
+      stringTokens: ["National Movement of the Revolution"]
+      wikidataQnode:  ["Q6974417"]
+   
     asmParty:
-     stringTokens: ["African Socialist Movement"]
-     wikidataQnode:  ["Q3326838"]
+      stringTokens: ["African Socialist Movement"]
+      wikidataQnode:  ["Q3326838"]
 
     rdpsParty:
-     stringTokens: ["Rally for Democracy and Social Progress"]
-     wikidataQnode:  ["Q17075186"]
-  
+      stringTokens: ["Rally for Democracy and Social Progress"]
+      wikidataQnode:  ["Q17075186"]
+   
     udfParty:
-     stringTokens: ["United Democratic Forces"]
-     wikidataQnode:  ["Q3077027"]
+      stringTokens: ["United Democratic Forces"]
+      wikidataQnode:  ["Q3077027"]
 
     ppcParty:
-     stringTokens: ["Congolese Progressive Party"]
-     wikidataQnode:  ["Q5160547"]
-  
+      stringTokens: ["Congolese Progressive Party"]
+      wikidataQnode:  ["Q5160547"]
+   
     marParty:
-     stringTokens: ["Action and Renewal Movement"]
-     wikidataQnode:  ["Q4677129"]
+      stringTokens: ["Action and Renewal Movement"]
+      wikidataQnode:  ["Q4677129"]
 
     fdcParty:
-     stringTokens: ["Congolese Democratic Front"]
-     wikidataQnode:  ["Q5160543"]
-  
-  ## armed groups
+      stringTokens: ["Congolese Democratic Front"]
+      wikidataQnode:  ["Q5160543"]
+   
+   ## armed groups
     ninjaarmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["Ninja"]
-     associatedEthnicGroup: ["Bakongo people"]
-     wikidataQnode: ["Q2376614"]
-  
+      stringTokens: ["Ninja"]
+      associatedEthnicGroup: ["Bakongo people"]
+      wikidataQnode: ["Q2376614"]
+   
     fdparmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["Cobra", "Forces Démocratique and Patriotique", "FDP"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q108146857"]
-  
+      stringTokens: ["Cobra", "Forces Démocratique and Patriotique", "FDP"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q108146857"]
+   
     cocoyearmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["Cocoye"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q108266046"]
-  
+      stringTokens: ["Cocoye"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q108266046"]
+   
     ntsiloulousarmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["Ntsiloulous"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: [""]
-  
+      stringTokens: ["Ntsiloulous"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: [""]
+   
     flecarmedNonGovernmentalOrganizedGroup:
-     stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
-     associatedEthnicGroup: [""]
-     wikidataQnode: ["Q608489"]
+      stringTokens: ["Front for the Liberation of the Enclave of Cabinda", "FLEC"]
+      associatedEthnicGroup: [""]
+      wikidataQnode: ["Q608489"]
 
