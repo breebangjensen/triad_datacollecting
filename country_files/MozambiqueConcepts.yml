@@ -78,7 +78,7 @@ concepts:
      wikidataQnode: ["Q29930"]
      livesIn: ["Koti Island", "Angoche", "Nampula Province"]
      associatedethnicgroup: ["Koti Island and Angoche, Nampula Province"]
-  MakhuwaLinguisticGroup1:
+  MakhuwaLinguisticGroup:
      stringTokens: ["Lolo", "Makua", "Emakhuwa", "Macua", "Makhuwa"]
      wikidataQnode: ["Q33882"]
      livesIn: ["Zambezi River", "Nampula Province"]
