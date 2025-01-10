@@ -6,7 +6,7 @@ After completing the knowledge graphs, including both country and relation files
 
 To detect missing data, I focused on the following key concepts and their attributes: ethnic groups, linguistic groups, political parties, and non-state armed organizations.
 
-The following script was utilized to identify missing data: link to script.
+The script named 'knowledgegraphs_missingdata.ipynb' was utilized to identify missing data. It's available in the Summer2024_update branch.
 
 For ethnic groups, the information gathered includes:
 
